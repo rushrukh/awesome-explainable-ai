@@ -81,7 +81,7 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases](https://transformer-circuits.pub/2022/mech-interp-essay/index.html) | Transformer Circuit Thread | 2022 | N/A | `Tutorial` | [Link]() |
 | [Can language models learn from explanations in context?](https://arxiv.org/abs/2204.02329) | EMNLP | 2022 | N/A | `DeepMind` | [Link]() |
 | [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/abs/2202.10419) | EMNLP | 2022 | N/A | `` | [Link]() |
-| [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf) | PNAS | 2022 | N/A | `DeepMind` `Google Brain` | [Link]() |
+| [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf) | PNAS | 2022 | N/A | `DeepMind` `GoogleBrain` | [Link]() |
 | [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) | arXiv | 2022 | [Github](https://github.com/castorini/daam) | `` | [Link]() |
 | [Exploring Counterfactual Explanations Through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis](https://arxiv.org/abs/2106.09992) | AISTATS | 2022 | N/A | `` | [Link]() |
 | [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/abs/2206.02256) | NIPS | 2022 | N/A | `` | [Link]() |
@@ -108,9 +108,28 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Implications of Model Indeterminacy for Explanations of Automated Decisions](https://proceedings.neurips.cc/paper_files/paper/2022/hash/33201f38001dd381aba2c462051449ba-Abstract-Conference.html) | NeurIPS | 2022 | N/A | `` | [Link]() |
 | [Explainability Via Causal Self-Talk](https://openreview.net/pdf?id=bk8vkdQfBS) | NeurIPS | 2022 | N/A | `DeepMind` | [Link]() |
 | [TalkToModel: Explaining Machine Learning Models with Interactive Natural Language Conversations](https://arxiv.org/abs/2207.04154) | NeurIPS | 2022 | N/A | `` | [Link]() |
-| [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) | NeurIPS | 2022 | N/A | `Google Brain` | [Link]() |
+| [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) | NeurIPS | 2022 | N/A | `GoogleBrain` | [Link]() |
 | [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104) | NeurIPS | 2022 | N/A | `` | [Link]() |
 | [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/abs/2206.01254) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Interpreting Language Models with Contrastive Explanations](https://aclanthology.org/2022.emnlp-main.14.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [Logical Reasoning with Span-Level Predictions for Interpretable and Robust NLI Models](https://aclanthology.org/2022.emnlp-main.251.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations](https://aclanthology.org/2022.emnlp-main.82.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [MetaLogic: Logical Reasoning Explanations with Fine-Grained Structure](https://aclanthology.org/2022.emnlp-main.310.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [Towards Interactivity and Interpretability: A Rationale-based Legal Judgment Prediction Framework](https://aclanthology.org/2022.emnlp-main.316.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [Explainable Question Answering based on Semantic Graph by Global Differentiable Learning and Dynamic Adaptive Reasoning](https://aclanthology.org/2022.emnlp-main.356.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
+| [Faithful Knowledge Graph Explanations in Commonsense Question Answering](https://aclanthology.org/2022.emnlp-main.743/) | EMNLP | 2022 | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
+| []() |  |  | N/A | `` | [Link]() |
 
 
 
@@ -121,6 +140,12 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://arxiv.org/abs/2302.04288) | ICML | 2023 | N/A | `` | [Link]() |
 | [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://arxiv.org/abs/2301.05062) | arXiv | 2023 | [Github](https://github.com/deepmind/tracr) | `DeepMind` | [Link]() |
 | [Probabilistically Robust Recourse: Navigating the Trade-offs between Costs and Robustness in Algorithmic Recourse](https://arxiv.org/abs/2203.06768) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Towards Interpretable Deep Reinforcement Learning Models via Inverse Reinforcement Learning](https://arxiv.org/abs/2203.16464) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Re-calibrating Feature Attributions for Model Interpretation](https://openreview.net/pdf?id=WUWJIV2Yxtp) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Quantifying Memorization Across Neural Language Models](Quantifying Memorization Across Neural Language Models) | ICLR | 2023 | N/A | `` | [Link]() |
+| [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://arxiv.org/abs/2302.06729) | ICLR | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
