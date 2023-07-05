@@ -124,16 +124,6 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://dl.acm.org/doi/10.1145/3534678.3539276) | KDD | 2022 | N/A | `` | [Link]() |
 | [Causal Attention for Interpretable and Generalizable Graph Classification](https://dl.acm.org/doi/10.1145/3534678.3539366) | KDD | 2022 | N/A | `` | [Link]() |
 | [Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction](https://dl.acm.org/doi/10.1145/3534678.3539278) | KDD | 2022 | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
 
 
 
@@ -152,4 +142,16 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://arxiv.org/abs/2302.06729) | ICLR | 2023 | N/A | `` | [Link]() |
 | [PIP-Net: Patch-Based Intuitive Prototypes for Interpretable Image Classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf) | CVPR | 2023 | N/A | `` | [Link]() |
 | [EVAL: Explainable Video Anomaly Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_EVAL_Explainable_Video_Anomaly_Localization_CVPR_2023_paper.pdf) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Overlooked Factors in Concept-based Explanations: Dataset Choice, Concept Learnability, and Human Capability](https://arxiv.org/abs/2207.09615) | CVPR | 2023 | [Github](https://github.com/princetonvisualai/OverlookedFactors) | `` | [Link]() |
+| [Spatial-Temporal Concept Based Explanation of 3D ConvNets](https://arxiv.org/abs/2206.05275) | CVPR | 2023 | [Github](https://github.com/yingji425/STCE) | `` | [Link]() |
+| [Adversarial Counterfactual Visual Explanations](https://arxiv.org/abs/2303.09962) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Bridging the Gap Between Model Explanations in Partially Annotated Multi-Label Classification](https://arxiv.org/abs/2304.01804) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Explaining Image Classifiers With Multiscale Directional Image Representation](https://arxiv.org/abs/2211.12857) | CVPR | 2023 | N/A | `` | [Link]() |
+| [CRAFT: Concept Recursive Activation FacTorization for Explainability](https://arxiv.org/abs/2211.10154) | CVPR | 2023 | N/A | `` | [Link]() |
+| [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Don't Lie to Me! Robust and Efficient Explainability With Verified Perturbation Analysis](https://arxiv.org/abs/2202.07728) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning](https://arxiv.org/abs/2304.04824) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/abs/2211.11158) | CVPR | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
+
+
