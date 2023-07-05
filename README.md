@@ -46,6 +46,7 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Explanations can be manipulated and geometry is to blame](https://arxiv.org/abs/1906.07983) | NeurIPS | 2019 | N/A | `` | [Link]() |
 | [Learning Optimized Risk Scores](https://arxiv.org/pdf/1610.00168.pdf) | JMLR | 2019 | N/A | `` | [Link]() |
 | [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361) | ACL | 2019 | N/A | `` | [Link]() |
+| [Deep Neural Networks Constrained by Decision Rules](https://ojs.aaai.org/index.php/AAAI/article/view/4095) | AAAI | 2018 | N/A | `` | [Link]() |
 
 ### 2020
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
@@ -71,26 +72,47 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Towards Robust and Reliable Algorithmic Recourse](https://arxiv.org/abs/2102.13620) | NeurIPS | 2021 | N/A | `` | [Link]() |
 | [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278) | FAccT | 2021 | N/A | `` | [Link]() |
 | [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810) | CHI | 2021 | N/A | `` | [Link]() |
+| [Explainable Reinforcement Learning via Model Transforms](https://arxiv.org/abs/2209.12006) | NeurIPS | 2021 | N/A | `` | [Link]() |
 
 ### 2022
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | :------------------------ | :------------------- | :----------------- | :----------------------------------------- | :-------------------------------- |
-| [TalkToModel: Explaining Machine Learning Models with Interactive Natural Language Conversations](https://arxiv.org/abs/2207.04154) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [GlanceNets: Interpretabile, Leak-proof Concept-based Models](https://arxiv.org/abs/2205.15612) | CRL | 2022 | N/A | `` | [Link]() |
 | [Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases](https://transformer-circuits.pub/2022/mech-interp-essay/index.html) | Transformer Circuit Thread | 2022 | N/A | `Tutorial` | [Link]() |
-| [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) | NeurIPS | 2022 | N/A | `Google Brain` | [Link]() |
 | [Can language models learn from explanations in context?](https://arxiv.org/abs/2204.02329) | EMNLP | 2022 | N/A | `DeepMind` | [Link]() |
 | [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/abs/2202.10419) | EMNLP | 2022 | N/A | `` | [Link]() |
 | [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf) | PNAS | 2022 | N/A | `DeepMind` `Google Brain` | [Link]() |
 | [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) | arXiv | 2022 | [Github](https://github.com/castorini/daam) | `` | [Link]() |
 | [Exploring Counterfactual Explanations Through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis](https://arxiv.org/abs/2106.09992) | AISTATS | 2022 | N/A | `` | [Link]() |
 | [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/abs/2206.02256) | NIPS | 2022 | N/A | `` | [Link]() |
-| [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104) | NeurIPS | 2022 | N/A | `` | [Link]() |
 | [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/abs/2202.01602) | arXiv | 2022 | N/A | `` | [Link]() |
 | [What Makes a Good Explanation?: A Harmonized View of Properties of Explanations](https://arxiv.org/abs/2211.05667) | arXiv | 2022 | N/A | `` | [Link]() |
-| [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/abs/2206.01254) | NeurIPS | 2022 | N/A | `` | [Link]() |
 | [NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights](https://cdn.aaai.org/ojs/20561/20561-13-24574-1-2-20220628.pdf) | AAAI | 2022 | [Github](https://github.com/understandable-machine-intelligence-lab/NoiseGrad) | `` | [Link]() |
 | [Fairness via Explanation Quality: Evaluating Disparities in the Quality of Post hoc Explanations](https://arxiv.org/abs/2205.07277) | AIES (AAAI) | 2022 | N/A | `` | [Link]() |
 | [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Models](https://arxiv.org/abs/2202.04053) | arXiv | 2022 | [Github](https://github.com/j-min/DallEval) | `` | [Link]() |
+| [Self-explaining deep models with logic rule reasoning](https://arxiv.org/abs/2210.07024) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [What You See is What You Classify: Black Box Attributions](https://arxiv.org/abs/2205.11266) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://arxiv.org/abs/2209.11222) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods](https://arxiv.org/abs/2112.04417) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Scalable Interpretability via Polynomials](https://arxiv.org/abs/2205.14108) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Learning to Scaffold: Optimizing Model Explanations for Teaching](https://arxiv.org/abs/2204.10810) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Listen to Interpret: Post-hoc Interpretability for Audio Networks with NMF](https://arxiv.org/abs/2202.11479) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [WeightedSHAP: analyzing and improving Shapley based feature attribution](https://arxiv.org/abs/2209.13429) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Visual correspondence-based explanations improve AI robustness and human-AI team accuracy](https://arxiv.org/abs/2208.00780) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [VICE: Variational Interpretable Concept Embeddings](https://arxiv.org/abs/2205.00756) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Robust Feature-Level Adversaries are Interpretability Tools](https://arxiv.org/abs/2110.03605) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [ProtoX: Explaining a Reinforcement Learning Agent via Prototyping](https://arxiv.org/abs/2211.03162) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model](https://arxiv.org/abs/2210.08151) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Neural Basis Models for Interpretability](https://arxiv.org/abs/2205.14120) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Implications of Model Indeterminacy for Explanations of Automated Decisions](https://proceedings.neurips.cc/paper_files/paper/2022/hash/33201f38001dd381aba2c462051449ba-Abstract-Conference.html) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Explainability Via Causal Self-Talk](https://openreview.net/pdf?id=bk8vkdQfBS) | NeurIPS | 2022 | N/A | `DeepMind` | [Link]() |
+| [TalkToModel: Explaining Machine Learning Models with Interactive Natural Language Conversations](https://arxiv.org/abs/2207.04154) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) | NeurIPS | 2022 | N/A | `Google Brain` | [Link]() |
+| [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104) | NeurIPS | 2022 | N/A | `` | [Link]() |
+| [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/abs/2206.01254) | NeurIPS | 2022 | N/A | `` | [Link]() |
+
+
 
 ### 2023
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
