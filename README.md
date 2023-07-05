@@ -4,7 +4,6 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | :------------------------ | :------------------- | :----------------- | :----------------------------------------- | :-------------------------------- |
-
 | [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](https://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf) | KDD | 2015 | N/A | `` | [Link]() |
 | [Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://arxiv.org/abs/1511.01644) | arXiv | 2015 | N/A | `` | [Link]() |
 | [Interpretable Decision Sets: A Joint Framework for Description and Prediction](https://www-cs-faculty.stanford.edu/people/jure/pubs/interpretable-kdd16.pdf) | KDD | 2016 | N/A | `` | [Link]() |
