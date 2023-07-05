@@ -118,8 +118,12 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Towards Interactivity and Interpretability: A Rationale-based Legal Judgment Prediction Framework](https://aclanthology.org/2022.emnlp-main.316.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
 | [Explainable Question Answering based on Semantic Graph by Global Differentiable Learning and Dynamic Adaptive Reasoning](https://aclanthology.org/2022.emnlp-main.356.pdf) | EMNLP | 2022 | N/A | `` | [Link]() |
 | [Faithful Knowledge Graph Explanations in Commonsense Question Answering](https://aclanthology.org/2022.emnlp-main.743/) | EMNLP | 2022 | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
+| [Optimal Interpretable Clustering Using Oblique Decision Trees](https://dl.acm.org/doi/pdf/10.1145/3534678.3539361) | KDD | 2022 | N/A | `` | [Link]() |
+| [ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis](https://dl.acm.org/doi/pdf/10.1145/3534678.3539463) | KDD | 2022 | N/A | `` | [Link]() |
+| [Learning Differential Operators for Interpretable Time Series Modeling](https://dl.acm.org/doi/pdf/10.1145/3534678.3539245) | KDD | 2022 | N/A | `` | [Link]() |
+| [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://dl.acm.org/doi/10.1145/3534678.3539276) | KDD | 2022 | N/A | `` | [Link]() |
+| [Causal Attention for Interpretable and Generalizable Graph Classification](https://dl.acm.org/doi/10.1145/3534678.3539366) | KDD | 2022 | N/A | `` | [Link]() |
+| [Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction](https://dl.acm.org/doi/10.1145/3534678.3539278) | KDD | 2022 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
@@ -144,7 +148,7 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Towards Interpretable Deep Reinforcement Learning Models via Inverse Reinforcement Learning](https://arxiv.org/abs/2203.16464) | ICLR | 2023 | N/A | `` | [Link]() |
 | [Re-calibrating Feature Attributions for Model Interpretation](https://openreview.net/pdf?id=WUWJIV2Yxtp) | ICLR | 2023 | N/A | `` | [Link]() |
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) | ICLR | 2023 | N/A | `` | [Link]() |
-| [Quantifying Memorization Across Neural Language Models](Quantifying Memorization Across Neural Language Models) | ICLR | 2023 | N/A | `` | [Link]() |
+| [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) | ICLR | 2023 | N/A | `` | [Link]() |
 | [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://arxiv.org/abs/2302.06729) | ICLR | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
