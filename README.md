@@ -124,7 +124,17 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://dl.acm.org/doi/10.1145/3534678.3539276) | KDD | 2022 | N/A | `` | [Link]() |
 | [Causal Attention for Interpretable and Generalizable Graph Classification](https://dl.acm.org/doi/10.1145/3534678.3539366) | KDD | 2022 | N/A | `` | [Link]() |
 | [Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction](https://dl.acm.org/doi/10.1145/3534678.3539278) | KDD | 2022 | N/A | `` | [Link]() |
-
+| [Label-Free Explainability for Unsupervised Models](https://proceedings.mlr.press/v162/crabbe22a/crabbe22a.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Rethinking Attention-Model Explainability through Faithfulness Violation Test](https://proceedings.mlr.press/v162/liu22i/liu22i.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Hierarchical Shrinkage: Improving the Accuracy and Interpretability of Tree-Based Methods](https://proceedings.mlr.press/v162/agarwal22b/agarwal22b.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [A Functional Information Perspective on Model Interpretation](https://proceedings.mlr.press/v162/gat22a/gat22a.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Inducing Causal Structure for Interpretable Neural Networks](https://proceedings.mlr.press/v162/geiger22a/geiger22a.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder](https://proceedings.mlr.press/v162/kim22g/kim22g.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Interpretable Neural Networks with Frank-Wolfe: Sparse Relevance Maps and Relevance Orderings](https://proceedings.mlr.press/v162/macdonald22a/macdonald22a.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers](https://arxiv.org/abs/2205.08078) | ICML | 2022 | N/A | `` | [Link]() |
+| [Robust Models Are More Interpretable Because Attributions Look Normal](https://proceedings.mlr.press/v162/wang22e/wang22e.pdf) | ICML | 2022 | N/A | `` | [Link]() |
+| [Latent Diffusion Energy-Based Model for Interpretable Text Modelling](https://proceedings.mlr.press/v162/yu22h/yu22h.pdf) | ICML | 2022 | N/A | `` | [Link]() |
 
 
 ### 2023
