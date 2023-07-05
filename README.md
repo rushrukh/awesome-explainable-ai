@@ -150,6 +150,6 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) | ICLR | 2023 | N/A | `` | [Link]() |
 | [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) | ICLR | 2023 | N/A | `` | [Link]() |
 | [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://arxiv.org/abs/2302.06729) | ICLR | 2023 | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
-| []() |  |  | N/A | `` | [Link]() |
+| [PIP-Net: Patch-Based Intuitive Prototypes for Interpretable Image Classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf) | CVPR | 2023 | N/A | `` | [Link]() |
+| [EVAL: Explainable Video Anomaly Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_EVAL_Explainable_Video_Anomaly_Localization_CVPR_2023_paper.pdf) | CVPR | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
