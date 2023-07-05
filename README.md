@@ -162,6 +162,11 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Don't Lie to Me! Robust and Efficient Explainability With Verified Perturbation Analysis](https://arxiv.org/abs/2202.07728) | CVPR | 2023 | N/A | `` | [Link]() |
 | [Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning](https://arxiv.org/abs/2304.04824) | CVPR | 2023 | N/A | `` | [Link]() |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/abs/2211.11158) | CVPR | 2023 | N/A | `` | [Link]() |
+| [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+| [Identifying Interpretable Subspaces in Image Representations](https://openreview.net/pdf?id=5YUyJYElAc) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+| [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://openreview.net/pdf?id=0SgBUsL4W0) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+| [Explainability as statistical inference](https://openreview.net/pdf?id=RPzQOi1Cyf) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+| [On the Impact of Knowledge Distillation for Model Interpretability](https://openreview.net/pdf?id=XOTFW2BK6i) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+| [NA2Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning](https://openreview.net/pdf?id=oUeo2uG1AZ) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
-
 
