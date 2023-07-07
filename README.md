@@ -1,5 +1,5 @@
-# Recent Publications in Explainable AI and their summaries
-A repository for summaries of recent explainable AI/Interpretable ML approaches
+# Recent Publications in Explainable AI
+A repository recent explainable AI/Interpretable ML approaches
 
 ### 2015 
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
