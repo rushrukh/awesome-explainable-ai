@@ -211,7 +211,7 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Unveiling the Black Box of PLMs with Semantic Anchors: Towards Interpretable Neural Semantic Parsing](https://ojs.aaai.org/index.php/AAAI/article/view/26572) | AAAI | 2023 | N/A | `` | |
 | [Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations](https://ojs.aaai.org/index.php/AAAI/article/view/26661) | AAAI | 2023 | N/A | `` | |
 | [Targeted Knowledge Infusion To Make Conversational AI Explainable and Safe](https://ojs.aaai.org/index.php/AAAI/article/view/26805) | AAAI | 2023 | N/A | `` | |
-| [https://ojs.aaai.org/index.php/AAAI/article/view/26853](https://ojs.aaai.org/index.php/AAAI/article/view/26853) | AAAI | 2023 | N/A | `` | |
+| [eForecaster: Unifying Electricity Forecasting with Robust, Flexible, and Explainable Machine Learning Algorithms](https://ojs.aaai.org/index.php/AAAI/article/view/26853) | AAAI | 2023 | N/A | `` | |
 | [SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in Electronics Manufacturing Using Explainable Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/26858) | AAAI | 2023 | N/A | `` | |
 | [Xaitk-Saliency: An Open Source Explainable AI Toolkit for Saliency](https://ojs.aaai.org/index.php/AAAI/article/view/26871) | AAAI | 2023 | N/A | `` | |
 | [Ripple: Concept-Based Interpretation for Raw Time Series Models in Education](https://ojs.aaai.org/index.php/AAAI/article/view/26888) | AAAI | 2023 | N/A | `` | |
