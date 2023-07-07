@@ -190,7 +190,29 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Discover and Cure: Concept-aware Mitigation of Spurious Correlation](https://openreview.net/pdf?id=QDxtrlPmfB) | ICML | 2023 | N/A | `` | [Link]() |
 | [PWSHAP: A Path-Wise Explanation Model for Targeted Variables](https://openreview.net/pdf?id=u8VEJNykA5) | ICML | 2023 | N/A | `` | [Link]() |
 | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://openreview.net/pdf?id=YIWtM3GdZc) | ICML | 2023 | N/A | `` | [Link]() |
+| [Rethinking Interpretation: Input-Agnostic Saliency Mapping of Deep Visual Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/25089) | AAAI | 2023 | N/A | `` | [Link]() |
+| [TopicFM: Robust and Interpretable Topic-Assisted Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/25341) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Solving Explainability Queries with Quantification: The Case of Feature Relevancy](https://ojs.aaai.org/index.php/AAAI/article/view/25514) | AAAI | 2023 | N/A | `` | [Link]() |
+| [PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability](https://ojs.aaai.org/index.php/AAAI/article/view/25648) | AAAI | 2023 | N/A | `` | [Link]() |
+| [KerPrint: Local-Global Knowledge Graph Enhanced Diagnosis Prediction for Retrospective and Prospective Interpretations](https://ojs.aaai.org/index.php/AAAI/article/view/25667) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](https://ojs.aaai.org/index.php/AAAI/article/view/25593) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Learning to Select Prototypical Parts for Interpretable Sequential Data Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/25812) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Learning Interpretable Temporal Properties from Positive Examples Only](https://ojs.aaai.org/index.php/AAAI/article/view/25800) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Symbolic Metamodels for Interpreting Black-Boxes Using Primitive Functions](https://ojs.aaai.org/index.php/AAAI/article/view/25816) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Towards More Robust Interpretation via Local Gradient Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/25986) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Towards Fine-Grained Explainability for Heterogeneous Graph Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/26040) | AAAI | 2023 | N/A | `` | [Link]() |
+| [XClusters: Explainability-First Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25963) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/26267) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Fairness and Explainability: Bridging the Gap towards Fair Model Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/26344) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Explaining Model Confidence Using Counterfactuals](https://ojs.aaai.org/index.php/AAAI/article/view/26399) | AAAI | 2023 | N/A | `` | [Link]() |
+| [SEAT: Stable and Explainable Attention](https://ojs.aaai.org/index.php/AAAI/article/view/26517) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Factual and Informative Review Generation for Explainable Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/26618) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Improving Interpretability via Explicit Word Interaction Graph Layer](https://ojs.aaai.org/index.php/AAAI/article/view/26586) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Unveiling the Black Box of PLMs with Semantic Anchors: Towards Interpretable Neural Semantic Parsing](https://ojs.aaai.org/index.php/AAAI/article/view/26572) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations](https://ojs.aaai.org/index.php/AAAI/article/view/26661) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Targeted Knowledge Infusion To Make Conversational AI Explainable and Safe](https://ojs.aaai.org/index.php/AAAI/article/view/26805) | AAAI | 2023 | N/A | `` | [Link]() |
+| [https://ojs.aaai.org/index.php/AAAI/article/view/26853](https://ojs.aaai.org/index.php/AAAI/article/view/26853) | AAAI | 2023 | N/A | `` | [Link]() |
+| [SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in Electronics Manufacturing Using Explainable Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/26858) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Xaitk-Saliency: An Open Source Explainable AI Toolkit for Saliency](https://ojs.aaai.org/index.php/AAAI/article/view/26871) | AAAI | 2023 | N/A | `` | [Link]() |
+| [Ripple: Concept-Based Interpretation for Raw Time Series Models in Education](https://ojs.aaai.org/index.php/AAAI/article/view/26888) | AAAI | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
-
-
-
