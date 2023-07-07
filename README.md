@@ -162,11 +162,36 @@ A repository for summaries of recent explainable AI/Interpretable ML approaches
 | [Don't Lie to Me! Robust and Efficient Explainability With Verified Perturbation Analysis](https://arxiv.org/abs/2202.07728) | CVPR | 2023 | N/A | `` | [Link]() |
 | [Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning](https://arxiv.org/abs/2304.04824) | CVPR | 2023 | N/A | `` | [Link]() |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/abs/2211.11158) | CVPR | 2023 | N/A | `` | [Link]() |
-| [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
-| [Identifying Interpretable Subspaces in Image Representations](https://openreview.net/pdf?id=5YUyJYElAc) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
-| [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://openreview.net/pdf?id=0SgBUsL4W0) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
-| [Explainability as statistical inference](https://openreview.net/pdf?id=RPzQOi1Cyf) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
-| [On the Impact of Knowledge Distillation for Model Interpretability](https://openreview.net/pdf?id=XOTFW2BK6i) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
-| [NA2Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning](https://openreview.net/pdf?id=oUeo2uG1AZ) | ICML (Poster) | 2023 | N/A | `` | [Link]() |
+
+| [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML | 2023 | N/A | `` | [Link]() |
+| [Identifying Interpretable Subspaces in Image Representations](https://openreview.net/pdf?id=5YUyJYElAc) | ICML | 2023 | N/A | `` | [Link]() |
+| [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://openreview.net/pdf?id=0SgBUsL4W0) | ICML | 2023 | N/A | `` | [Link]() |
+| [Explainability as statistical inference](https://openreview.net/pdf?id=RPzQOi1Cyf) | ICML | 2023 | N/A | `` | [Link]() |
+| [On the Impact of Knowledge Distillation for Model Interpretability](https://openreview.net/pdf?id=XOTFW2BK6i) | ICML | 2023 | N/A | `` | [Link]() |
+| [NA2Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning](https://openreview.net/pdf?id=oUeo2uG1AZ) | ICML | 2023 | N/A | `` | [Link]() |
+| [Explaining Reinforcement Learning with Shapley Values](https://openreview.net/pdf?id=R1blujRwj1) | ICML | 2023 | N/A | `` | [Link]() |
+| [Explainable Data-Driven Optimization: From Context to Decision and Back Again](https://openreview.net/pdf?id=4Lk9GHHueJ) | ICML | 2023 | N/A | `` | [Link]() |
+| [Causal Proxy Models for Concept-based Model Explanations](https://openreview.net/pdf?id=1Hh1cIPJ7V) | ICML | 2023 | N/A | `` | [Link]() |
+| [Learning Perturbations to Explain Time Series Predictions](https://openreview.net/pdf?id=WpeZu6WzTB) | ICML | 2023 | N/A | `` | [Link]() |
+| [Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching](https://openreview.net/pdf?id=MocsSAUKlk) | ICML | 2023 | N/A | `` | [Link]() |
+| [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://openreview.net/pdf?id=0SgBUsL4W0) | ICML | 2023 | [Github](https://github.com/batmanlab/ICML-2023-Route-interpret-repeat) | `` | [Link]() |
+| [Representer Point Selection for Explaining Regularized High-dimensional Models](https://openreview.net/pdf?id=GLI2hX4vxx) | ICML | 2023 | N/A | `` | [Link]() |
+| [Towards Explaining Distribution Shifts](https://openreview.net/pdf?id=Tig5ELxc0M) | ICML | 2023 | N/A | `` | [Link]() |
+| [Relevant Walk Search for Explaining Graph Neural Networks](https://openreview.net/pdf?id=BDYIci7bVs) | ICML | 2023 | [Github](https://github.com/xiong-ping/rel_walk_gnnlrp) | `` | [Link]() |
+| [Concept-based Explanations for Out-of-Distribution Detectors](https://openreview.net/pdf?id=a33IYBCFey) | ICML | 2023 | N/A | `` | [Link]() |
+| [GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations](https://openreview.net/pdf?id=KHqQwzx2H2) | ICML | 2023 | N/A | `` | [Link]() |
+| [Robust Explanation for Free or At the Cost of Faithfulness](https://openreview.net/pdf?id=6bfF0RYvMy) | ICML | 2023 | N/A | `` | [Link]() |
+| [Learn to Accumulate Evidence from All Training Samples: Theory and Practice](https://openreview.net/pdf?id=2MaUpKBSju) | ICML | 2023 | N/A | `` | [Link]() |
+| [Towards Trustworthy Explanation: On Causal Rationalization](https://openreview.net/pdf?id=fvTgh4MNUV) | ICML | 2023 | N/A | `` | [Link]() |
+| [Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables](https://openreview.net/pdf?id=BdwGV6fwbK) | ICML | 2023 | N/A | `` | [Link]() |
+| [Probabilistic Concept Bottleneck Models](https://openreview.net/pdf?id=yOxy3T0d6e) | ICML | 2023 | N/A | `` | [Link]() |
+| [What do CNNs Learn in the First Layer and Why? A Linear Systems Perspective](https://openreview.net/pdf?id=RJGad2VFYk) | ICML | 2023 | N/A | `` | [Link]() |
+| [Towards credible visual model interpretation with path attribution](https://openreview.net/pdf?id=cHZBCZmfSo) | ICML | 2023 | N/A | `` | [Link]() |
+| [Trainability, Expressivity and Interpretability in Gated Neural ODEs](https://openreview.net/pdf?id=ZhO8woi9CX) | ICML | 2023 | N/A | `` | [Link]() |
+| [Discover and Cure: Concept-aware Mitigation of Spurious Correlation](https://openreview.net/pdf?id=QDxtrlPmfB) | ICML | 2023 | N/A | `` | [Link]() |
+| [PWSHAP: A Path-Wise Explanation Model for Targeted Variables](https://openreview.net/pdf?id=u8VEJNykA5) | ICML | 2023 | N/A | `` | [Link]() |
+| [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://openreview.net/pdf?id=YIWtM3GdZc) | ICML | 2023 | N/A | `` | [Link]() |
 | []() |  |  | N/A | `` | [Link]() |
+
+
 
