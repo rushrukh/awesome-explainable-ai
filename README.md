@@ -215,4 +215,5 @@ A repository recent explainable AI/Interpretable ML approaches
 | [SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in Electronics Manufacturing Using Explainable Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/26858) | AAAI | 2023 | N/A | `` | |
 | [Xaitk-Saliency: An Open Source Explainable AI Toolkit for Saliency](https://ojs.aaai.org/index.php/AAAI/article/view/26871) | AAAI | 2023 | N/A | `` | |
 | [Ripple: Concept-Based Interpretation for Raw Time Series Models in Education](https://ojs.aaai.org/index.php/AAAI/article/view/26888) | AAAI | 2023 | N/A | `` | |
+| [Semantics, Ontology and Explanation](https://arxiv.org/abs/2304.11124) | arXiv | 2023 | N/A | `Ontological Unpacking` | |
 | []() |  |  | N/A | `` | |
