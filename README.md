@@ -60,6 +60,8 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods](https://arxiv.org/abs/1911.02508) | AIES (AAAI) | 2020 | N/A | `` | |
 | [Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning](http://www-personal.umich.edu/~harmank/Papers/CHI2020_Interpretability.pdf) | CHI | 2020 | N/A | `Review Paper` | |
 | [Human Factors in Model Interpretability: Industry Practices, Challenges, and Needs](https://dl.acm.org/doi/10.1145/3392878) | arXiv | 2020 | N/A | `Review Paper` | |
+| [Human-Driven FOL Explanations of Deep Learning](https://www.ijcai.org/proceedings/2020/309) | IJCAI       | 2020 | N\A  | 'Logic Explanations' | 
+| [A Constraint-Based Approach to Learning and Explanation](https://ojs.aaai.org/index.php/AAAI/article/view/5774) | AAAI | 2020| N\A | 'Mutual Information' |
 
 ### 2021
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
@@ -90,6 +92,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights](https://cdn.aaai.org/ojs/20561/20561-13-24574-1-2-20220628.pdf) | AAAI | 2022 | [Github](https://github.com/understandable-machine-intelligence-lab/NoiseGrad) | `` | |
 | [Fairness via Explanation Quality: Evaluating Disparities in the Quality of Post hoc Explanations](https://arxiv.org/abs/2205.07277) | AIES (AAAI) | 2022 | N/A | `` | |
 | [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Models](https://arxiv.org/abs/2202.04053) | arXiv | 2022 | [Github](https://github.com/j-min/DallEval) | `` | |
+| [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=52974)                                                                            | NuerIPS                    | 2022 | [Github](https://github.com/pietrobarbiero/pytorch_explain)                    | `CBM`, `CEM`                                   |
 | [Self-explaining deep models with logic rule reasoning](https://arxiv.org/abs/2210.07024) | NeurIPS | 2022 | N/A | `` | |
 | [What You See is What You Classify: Black Box Attributions](https://arxiv.org/abs/2205.11266) | NeurIPS | 2022 | N/A | `` | |
 | [Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://arxiv.org/abs/2209.11222) | NeurIPS | 2022 | N/A | `` | |
@@ -162,7 +165,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Don't Lie to Me! Robust and Efficient Explainability With Verified Perturbation Analysis](https://arxiv.org/abs/2202.07728) | CVPR | 2023 | N/A | `` | |
 | [Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning](https://arxiv.org/abs/2304.04824) | CVPR | 2023 | N/A | `` | |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/abs/2211.11158) | CVPR | 2023 | N/A | `` | |
-| [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML | 2023 | N/A | `` | |
+| [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML | 2023 | [Github](https://github.com/pietrobarbiero/pytorch_explain)                                                            |         | |
 | [Identifying Interpretable Subspaces in Image Representations](https://openreview.net/pdf?id=5YUyJYElAc) | ICML | 2023 | N/A | `` | |
 | [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://openreview.net/pdf?id=0SgBUsL4W0) | ICML | 2023 | N/A | `` | |
 | [Explainability as statistical inference](https://openreview.net/pdf?id=RPzQOi1Cyf) | ICML | 2023 | N/A | `` | |
