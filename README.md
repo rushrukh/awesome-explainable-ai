@@ -87,7 +87,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/pdf/2111.09259.pdf) | PNAS | 2022 | N/A | `DeepMind` `GoogleBrain` | |
 | [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885) | arXiv | 2022 | [Github](https://github.com/castorini/daam) | `` | |
 | [Exploring Counterfactual Explanations Through the Lens of Adversarial Examples: A Theoretical and Empirical Analysis](https://arxiv.org/abs/2106.09992) | AISTATS | 2022 | N/A | `` | |
-| [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/abs/2206.02256) | NIPS | 2022 | N/A | `` | |
+| [Use-Case-Grounded Simulations for Explanation Evaluation](https://arxiv.org/abs/2206.02256) | NeurIPS | 2022 | N/A | `` | |
 | [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/abs/2202.01602) | arXiv | 2022 | N/A | `` | |
 | [What Makes a Good Explanation?: A Harmonized View of Properties of Explanations](https://arxiv.org/abs/2211.05667) | arXiv | 2022 | N/A | `` | |
 | [NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights](https://cdn.aaai.org/ojs/20561/20561-13-24574-1-2-20220628.pdf) | AAAI | 2022 | [Github](https://github.com/understandable-machine-intelligence-lab/NoiseGrad) | `` | |
