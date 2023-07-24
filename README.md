@@ -1,5 +1,6 @@
 # Recent Publications in Explainable AI
 A repository recent explainable AI/Interpretable ML approaches
+[If you are would like to contribute to this, feel free and please follow the format `| [Paper_Title](Paper_Link) | Conference_Name | Year_Published | [Github](Link) | `Keywords` | |`]
 
 ### 2015 
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
@@ -92,7 +93,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights](https://cdn.aaai.org/ojs/20561/20561-13-24574-1-2-20220628.pdf) | AAAI | 2022 | [Github](https://github.com/understandable-machine-intelligence-lab/NoiseGrad) | `` | |
 | [Fairness via Explanation Quality: Evaluating Disparities in the Quality of Post hoc Explanations](https://arxiv.org/abs/2205.07277) | AIES (AAAI) | 2022 | N/A | `` | |
 | [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Models](https://arxiv.org/abs/2202.04053) | arXiv | 2022 | [Github](https://github.com/j-min/DallEval) | `` | |
-| [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=52974)                                                                            | NuerIPS                    | 2022 | [Github](https://github.com/pietrobarbiero/pytorch_explain)                    | `CBM`, `CEM`                                   |
+| [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=52974) | NuerIPS | 2022 | [Github](https://github.com/pietrobarbiero/pytorch_explain) | `CBM`, `CEM` |
 | [Self-explaining deep models with logic rule reasoning](https://arxiv.org/abs/2210.07024) | NeurIPS | 2022 | N/A | `` | |
 | [What You See is What You Classify: Black Box Attributions](https://arxiv.org/abs/2205.11266) | NeurIPS | 2022 | N/A | `` | |
 | [Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://arxiv.org/abs/2209.11222) | NeurIPS | 2022 | N/A | `` | |
@@ -138,6 +139,22 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers](https://arxiv.org/abs/2205.08078) | ICML | 2022 | N/A | `` | |
 | [Robust Models Are More Interpretable Because Attributions Look Normal](https://proceedings.mlr.press/v162/wang22e/wang22e.pdf) | ICML | 2022 | N/A | `` | |
 | [Latent Diffusion Energy-Based Model for Interpretable Text Modelling](https://proceedings.mlr.press/v162/yu22h/yu22h.pdf) | ICML | 2022 | N/A | `` | |
+| [Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation based COVID-19 Misinformation Detection](https://www.ijcai.org/proceedings/2022/0706.pdf) | IJCAI | 2022 | N/A | `` | |
+| [AttExplainer: Explain Transformer via Attention by Reinforcement Learning](https://www.ijcai.org/proceedings/2022/0102.pdf) | IJCAI | 2022 | N/A | `` | |
+| [Investigating and explaining the frequency bias in classification](https://arxiv.org/abs/2205.03154) | IJCAI | 2022 | N/A | `` | |
+| [Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN](https://www.ijcai.org/proceedings/2022/0103.pdf) | IJCAI | 2022 | N/A | `` | |
+| [Axiomatic Foundations of Explainability](https://hal.laas.fr/hal-03702681/document) | IJCAI | 2022 | N/A | `` | |
+| [Explaining Soft-Goal Conflicts through Constraint Relaxations](https://www.ijcai.org/proceedings/2022/0634.pdf) | IJCAI | 2022 | N/A | `` | |
+| [Robust Interpretable Text Classification against Spurious Correlations Using AND-rules with Negation](https://uia.brage.unit.no/uia-xmlui/handle/11250/3057374) | IJCAI | 2022 | N/A | `` | |
+| [Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering](https://arxiv.org/abs/2206.08486) | IJCAI | 2022 | N/A | `` | |
+| [Toward Policy Explanations for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2204.12568) | IJCAI | 2022 | N/A | `` | |
+| [“My nose is running.” “Are you also coughing?”: Building A Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953) | IJCAI | 2022 | N/A | `` | |
+| [Model Stealing Defense against Exploiting Information Leak Through the Interpretation of Deep Neural Nets](https://www.ijcai.org/proceedings/2022/0100.pdf) | IJCAI | 2022 | N/A | `` | |
+| [Learning by Interpreting](https://www.ijcai.org/proceedings/2022/0609.pdf) | IJCAI | 2022 | N/A | `` | |
+| [Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies](https://arxiv.org/abs/2205.01240) | IJCAI | 2022 | N/A | `` | |
+| [Explanations for Negative Query Answers under Inconsistency-Tolerant Semantics](https://www.ijcai.org/proceedings/2022/0375.pdf) | IJCAI | 2022 | N/A | `` | |
+| [On Preferred Abductive Explanations for Decision Trees and Random Forests](https://hal.science/hal-03764873/) | IJCAI | 2022 | N/A | `` | |
+| [Adversarial Explanations for Knowledge Graph Embeddings](https://www.ijcai.org/proceedings/2022/0391.pdf) | IJCAI | 2022 | N/A | `` | |
 
 
 ### 2023
@@ -219,4 +236,35 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Xaitk-Saliency: An Open Source Explainable AI Toolkit for Saliency](https://ojs.aaai.org/index.php/AAAI/article/view/26871) | AAAI | 2023 | N/A | `` | |
 | [Ripple: Concept-Based Interpretation for Raw Time Series Models in Education](https://ojs.aaai.org/index.php/AAAI/article/view/26888) | AAAI | 2023 | N/A | `` | |
 | [Semantics, Ontology and Explanation](https://arxiv.org/abs/2304.11124) | arXiv | 2023 | N/A | `Ontological Unpacking` | |
+| [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/pdf/2305.11426.pdf) | arXiv | 2023 | N/A | `` | |
+| [TopicFM: Robust and Interpretable Topic-Assisted Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/25341) | AAAI | 2023 | N/A | `` | |
+| [Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](https://ojs.aaai.org/index.php/AAAI/article/view/25593) | AAAI | 2023 | N/A | `` | |
+| [KerPrint: Local-Global Knowledge Graph Enhanced Diagnosis Prediction for Retrospective and Prospective Interpretations](https://ojs.aaai.org/index.php/AAAI/article/view/25648) | AAAI | 2023 | N/A | `` | |
+| [Solving Explainability Queries with Quantification: The Case of Feature Relevancy](https://ojs.aaai.org/index.php/AAAI/article/view/25514) | AAAI | 2023 | N/A | `` | |
+| [PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability](https://ojs.aaai.org/index.php/AAAI/article/view/25648) | AAAI | 2023 | N/A | `` | |
+| [Solving Explainability Queries with Quantification: The Case of Feature Relevancy](https://ojs.aaai.org/index.php/AAAI/article/view/25514) | AAAI | 2023 | N/A | `` | |
+| [Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/25803) | AAAI | 2023 | N/A | `` | |
+| [Learning to Select Prototypical Parts for Interpretable Sequential Data Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/25812) | AAAI | 2023 | N/A | `` | |
+| [Learning Interpretable Temporal Properties from Positive Examples Only](https://ojs.aaai.org/index.php/AAAI/article/view/25800) | AAAI | 2023 | N/A | `` | |
+| [Unfooling Perturbation-Based Post Hoc Explainers](https://ojs.aaai.org/index.php/AAAI/article/view/25847) | AAAI | 2023 | N/A | `` | |
+| [Very Fast, Approximate Counterfactual Explanations for Decision Forests](https://ojs.aaai.org/index.php/AAAI/article/view/25848) | AAAI | 2023 | N/A | `` | |
+| [Symbolic Metamodels for Interpreting Black-Boxes Using Primitive Functions](https://ojs.aaai.org/index.php/AAAI/article/view/25816) | AAAI | 2023 | N/A | `` | |
+| [Towards More Robust Interpretation via Local Gradient Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/25986) | AAAI | 2023 | N/A | `` | |
+| [Towards Fine-Grained Explainability for Heterogeneous Graph Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/26040) | AAAI | 2023 | N/A | `` | |
+| [Local Explanations for Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26081) | AAAI | 2023 | N/A | `` | |
+| [XClusters: Explainability-First Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25963) | AAAI | 2023 | N/A | `` | |
+| [Explaining Random Forests Using Bipolar Argumentation and Markov Networks](https://ojs.aaai.org/index.php/AAAI/article/view/26132) | AAAI | 2023 | N/A | `` | |
+| [Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/26267) | AAAI | 2023 | N/A | `` | |
+| [Fairness and Explainability: Bridging the Gap towards Fair Model Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/26344) | AAAI | 2023 | N/A | `` | |
+| [Explaining Model Confidence Using Counterfactuals](https://ojs.aaai.org/index.php/AAAI/article/view/26399) | AAAI | 2023 | N/A | `` | |
+| [XRand: Differentially Private Defense against Explanation-Guided Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/26401) | AAAI | 2023 | N/A | `` | |
+| [Unsupervised Explanation Generation via Correct Instantiations](https://ojs.aaai.org/index.php/AAAI/article/view/26494) | AAAI | 2023 | N/A | `` | |
+| [SEAT: Stable and Explainable Attention](https://ojs.aaai.org/index.php/AAAI/article/view/26517) | AAAI | 2023 | N/A | `` | |
+| [Disentangled CVAEs with Contrastive Learning for Explainable Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/26604) | AAAI | 2023 | N/A | `` | |
+| [Factual and Informative Review Generation for Explainable Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/26618) | AAAI | 2023 | N/A | `` | |
+| [Unveiling the Black Box of PLMs with Semantic Anchors: Towards Interpretable Neural Semantic Parsing](https://ojs.aaai.org/index.php/AAAI/article/view/26572) | AAAI | 2023 | N/A | `` | |
+| [Improving Interpretability via Explicit Word Interaction Graph Layer](https://ojs.aaai.org/index.php/AAAI/article/view/26586) | AAAI | 2023 | N/A | `` | |
+| [Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations](https://ojs.aaai.org/index.php/AAAI/article/view/26661) | AAAI | 2023 | N/A | `` | |
+| [Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery](https://ojs.aaai.org/index.php/AAAI/article/view/26679) | AAAI | 2023 | N/A | `` | |
+| [Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap](https://ojs.aaai.org/index.php/AAAI/article/view/26755) | AAAI | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
