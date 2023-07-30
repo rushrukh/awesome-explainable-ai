@@ -77,6 +77,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278) | FAccT | 2021 | N/A | `` | |
 | [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810) | CHI | 2021 | N/A | `` | |
 | [Explainable Reinforcement Learning via Model Transforms](https://arxiv.org/abs/2209.12006) | NeurIPS | 2021 | N/A | `` | |
+| [Aligning Artificial Neural Networks and Ontologies towards Explainable AI](https://ojs.aaai.org/index.php/AAAI/article/view/16626) | AAAI | 2021 | N/A | `` | |
 
 ### 2022
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
@@ -156,7 +157,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Explanations for Negative Query Answers under Inconsistency-Tolerant Semantics](https://www.ijcai.org/proceedings/2022/0375.pdf) | IJCAI | 2022 | N/A | `` | |
 | [On Preferred Abductive Explanations for Decision Trees and Random Forests](https://hal.science/hal-03764873/) | IJCAI | 2022 | N/A | `` | |
 | [Adversarial Explanations for Knowledge Graph Embeddings](https://www.ijcai.org/proceedings/2022/0391.pdf) | IJCAI | 2022 | N/A | `` | |
-
+| [Looking Inside the Black-Box: Logic-based Explanations for Neural Networks](https://proceedings.kr.org/2022/45/) | KR | 2022 | N/A | `` | |
 
 ### 2023
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
