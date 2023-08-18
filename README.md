@@ -269,4 +269,22 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations](https://ojs.aaai.org/index.php/AAAI/article/view/26661) | AAAI | 2023 | N/A | `` | |
 | [Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery](https://ojs.aaai.org/index.php/AAAI/article/view/26679) | AAAI | 2023 | N/A | `` | |
 | [Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap](https://ojs.aaai.org/index.php/AAAI/article/view/26755) | AAAI | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [Data-Efficient and Interpretable Tabular Anomaly Detection](https://arxiv.org/abs/2203.02034) | KDD | 2023 | N/A | `` | |
+| [Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599289) | KDD | 2023 | N/A | `` | |
+| [Hands-on Tutorial: "Explanations in AI: Methods, Stakeholders and Pitfalls"](https://dl.acm.org/doi/abs/10.1145/3580305.3599181) | KDD | 2023 | N/A | `` | |
+| [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3580305.3599343) | KDD | 2023 | N/A | `` | |
+| [Generative AI meets Responsible AI: Practical Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3580305.3599557) | KDD | 2023 | N/A | `` | |
+| [Empower Post-hoc Graph Explanations with Information Bottleneck: A Pre-training and Fine-tuning Perspective](https://dl.acm.org/doi/10.1145/3580305.3599330) | KDD | 2023 | N/A | `` | |
+| [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://dl.acm.org/doi/abs/10.1145/3580305.3599435) | KDD | 2023 | N/A | `` | |
+| [CounterNet: End-to-End Training of Prediction Aware Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3580305.3599290) | KDD | 2023 | N/A | `` | |
+| [Fire: An Optimization Approach for Fast Interpretable Rule Extraction](https://dl.acm.org/doi/10.1145/3580305.3599353) | KDD | 2023 | N/A | `` | |
+| [ESSA: Explanation Iterative Supervision via Saliency-guided Data Augmentation](https://dl.acm.org/doi/abs/10.1145/3580305.3599336) | KDD | 2023 | N/A | `` | |
+| [A Causality Inspired Framework for Model Interpretation](https://dl.acm.org/doi/10.1145/3580305.3599240) | KDD | 2023 | N/A | `` | |
+| [Path-Specific Counterfactual Fairness for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3580305.3599462) | KDD | 2023 | N/A | `` | |
+| [SURE: Robust, Explainable, and Fair Classification without Sensitive Attributes](https://dl.acm.org/doi/10.1145/3580305.3599514) | KDD | 2023 | N/A | `` | |
+| [Learning for Counterfactual Fairness from Observational Data](https://dl.acm.org/doi/10.1145/3580305.3599408) | KDD | 2023 | N/A | `` | |
+| [Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3580305.3599394) | KDD | 2023 | N/A | `` | |
+| [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/abs/10.1145/3580305.3599337) | KDD | 2023 | N/A | `` | |
+| [FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework](https://dl.acm.org/doi/abs/10.1145/3580305.3599354) | KDD | 2023 | N/A | `` | |
+| [Counterfactual Explanations and Model Multiplicity: a Relational Verification View](https://proceedings.kr.org/2023/78/kr2023-0078-leofante-et-al.pdf) | Proceedings of KR | 2023 | N/A | `` | |
+| []() | KDD | 2023 | N/A | `` | |
