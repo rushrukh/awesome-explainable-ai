@@ -212,6 +212,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Discover and Cure: Concept-aware Mitigation of Spurious Correlation](https://openreview.net/pdf?id=QDxtrlPmfB) | ICML | 2023 | N/A | `` | |
 | [PWSHAP: A Path-Wise Explanation Model for Targeted Variables](https://openreview.net/pdf?id=u8VEJNykA5) | ICML | 2023 | N/A | `` | |
 | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://openreview.net/pdf?id=YIWtM3GdZc) | ICML | 2023 | N/A | `` | |
+| [Tackling Shortcut Learning in Deep Neural Networks: An Iterative Approach with Interpretable Models](https://openreview.net/pdf?id=m5vnLHfNy7) | ICML Workshop | 2023 | N/A | `` | |
 | [Rethinking Interpretation: Input-Agnostic Saliency Mapping of Deep Visual Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/25089) | AAAI | 2023 | N/A | `` | |
 | [TopicFM: Robust and Interpretable Topic-Assisted Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/25341) | AAAI | 2023 | N/A | `` | |
 | [Solving Explainability Queries with Quantification: The Case of Feature Relevancy](https://ojs.aaai.org/index.php/AAAI/article/view/25514) | AAAI | 2023 | N/A | `` | |
@@ -286,7 +287,10 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3580305.3599394) | KDD | 2023 | N/A | `` | |
 | [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/abs/10.1145/3580305.3599337) | KDD | 2023 | N/A | `` | |
 | [FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework](https://dl.acm.org/doi/abs/10.1145/3580305.3599354) | KDD | 2023 | N/A | `` | |
+| [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3580305.3599343) | KDD | 2023 | N/A | `` | |
 | [Counterfactual Explanations and Model Multiplicity: a Relational Verification View](https://proceedings.kr.org/2023/78/kr2023-0078-leofante-et-al.pdf) | Proceedings of KR | 2023 | N/A | `` | |
 | [Explainable Representations for Relation Prediction in Knowledge Graphs](https://proceedings.kr.org/2023/62/) | Proceedings of KR | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/64d1a2c33e2b3e04b8de3b24/1691460293298/ID97_Research+Paper_2023.pdf) | PMLR | 2023 | N/A | `` | |
+| [FunnyBirds: A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods](https://arxiv.org/pdf/2308.06248.pdf) | arXiv | 2023 | N/A | `` | |
+| [Diffusion-based Visual Counterfactual Explanations - Towards Systematic Quantitative Evaluation](https://arxiv.org/pdf/2308.06100.pdf) | arXiv | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
