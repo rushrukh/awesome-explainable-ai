@@ -287,4 +287,6 @@ A repository recent explainable AI/Interpretable ML approaches
 | [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/abs/10.1145/3580305.3599337) | KDD | 2023 | N/A | `` | |
 | [FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework](https://dl.acm.org/doi/abs/10.1145/3580305.3599354) | KDD | 2023 | N/A | `` | |
 | [Counterfactual Explanations and Model Multiplicity: a Relational Verification View](https://proceedings.kr.org/2023/78/kr2023-0078-leofante-et-al.pdf) | Proceedings of KR | 2023 | N/A | `` | |
-| []() | KDD | 2023 | N/A | `` | |
+| [Explainable Representations for Relation Prediction in Knowledge Graphs](https://proceedings.kr.org/2023/62/) | Proceedings of KR | 2023 | N/A | `` | |
+| []() |  |  | N/A | `` | |
+| []() |  |  | N/A | `` | |
