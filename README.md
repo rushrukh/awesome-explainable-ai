@@ -293,4 +293,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/64d1a2c33e2b3e04b8de3b24/1691460293298/ID97_Research+Paper_2023.pdf) | PMLR | 2023 | N/A | `` | |
 | [FunnyBirds: A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods](https://arxiv.org/pdf/2308.06248.pdf) | arXiv | 2023 | N/A | `` | |
 | [Diffusion-based Visual Counterfactual Explanations - Towards Systematic Quantitative Evaluation](https://arxiv.org/pdf/2308.06100.pdf) | arXiv | 2023 | N/A | `` | |
+| [Testing methods of neural systems understanding](https://www.sciencedirect.com/science/article/pii/S1389041723000906) | Cognitive Systems Research | 2023 | N/A | `` | |
+| [Understanding CNN Hidden Neuron Activations Using Structured Background Knowledge and Deductive Reasoning](https://arxiv.org/pdf/2308.03999.pdf) | arXiv | 2023 | N/A | `` | |
+| []() |  |  | N/A | `` | |
 | []() |  |  | N/A | `` | |
