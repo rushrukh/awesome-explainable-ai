@@ -161,6 +161,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Adversarial Explanations for Knowledge Graph Embeddings](https://www.ijcai.org/proceedings/2022/0391.pdf) | IJCAI | 2022 | N/A | `` | |
 | [Looking Inside the Black-Box: Logic-based Explanations for Neural Networks](https://proceedings.kr.org/2022/45/) | KR | 2022 | N/A | `` | |
 | [Entropy-Based Logic Explanations of Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/20551) | AAAI | 2022 | N/A | `` | |
+| [Explainable Neural Rule Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512023) | WWW | 2022 | N/A | `` | |
 | []() |  |  | N/A | `` | |
 
 
