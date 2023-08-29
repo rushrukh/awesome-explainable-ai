@@ -36,6 +36,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292) | NeruIPS | 2018 | N/A | `` | |
 | [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806) | AAAI | 2018 | N/A | `` | |
 | [The Mythos of Model Interpretability](https://dl.acm.org/doi/10.1145/3236386.3241340) | arXiv | 2018 | N/A | `Review Paper` | |
+| [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x) | Nature Machine Intelligence | 2018 | N/A | `` | |
 
 ### 2019 
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
