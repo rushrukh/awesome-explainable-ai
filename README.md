@@ -118,6 +118,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104) | NeurIPS | 2022 | N/A | `` | |
 | [Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations](https://arxiv.org/abs/2206.01254) | NeurIPS | 2022 | N/A | `` | |
 | [Foundations of Symbolic Languages for Model Interpretability](https://papers.nips.cc/paper_files/paper/2021/hash/60cb558c40e4f18479664069d9642d5a-Abstract.html) | NeurIPS | 2022 | N/A | `` | |
+| [The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](https://papers.nips.cc/paper_files/paper/2021/hash/05d74c48b5b30514d8e9bd60320fc8f6-Abstract.html) | NeurIPS | 2022 | N/A | `` | |
 | [Interpreting Language Models with Contrastive Explanations](https://aclanthology.org/2022.emnlp-main.14.pdf) | EMNLP | 2022 | N/A | `` | |
 | [Logical Reasoning with Span-Level Predictions for Interpretable and Robust NLI Models](https://aclanthology.org/2022.emnlp-main.251.pdf) | EMNLP | 2022 | N/A | `` | |
 | [Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations](https://aclanthology.org/2022.emnlp-main.82.pdf) | EMNLP | 2022 | N/A | `` | |
