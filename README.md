@@ -307,7 +307,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [i-Align: an interpretable knowledge graph alignment model](https://link.springer.com/article/10.1007/s10618-023-00963-3) | DMKD | 2023 | N/A | `` | |
 | [Goodhart’s Law Applies to NLP’s Explanation Benchmarks](https://arxiv.org/pdf/2308.14272.pdf) | arXiv | 2023 | N/A | `` | |
 | [DELELSTM: DECOMPOSITION-BASED LINEAR EXPLAINABLE LSTM TO CAPTURE INSTANTANEOUS AND LONG-TERM EFFECTS IN TIME SERIES](https://arxiv.org/pdf/2308.13797.pdf) | arXiv | 2023 | N/A | `` | |
-| [BEYOND DISCRIMINATIVE REGIONS: SALIENCY MAPS AS ALTERNATIVES TO CAMS FOR WEAKLY SU- PERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2308.11052.pdf) | arXuv | 2023 | N/A | `` | |
+| [BEYOND DISCRIMINATIVE REGIONS: SALIENCY MAPS AS ALTERNATIVES TO CAMS FOR WEAKLY SU- PERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2308.11052.pdf) | arXiv | 2023 | N/A | `` | |
 | [SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks](https://arxiv.org/pdf/2308.11845.pdf) | arXiv | 2023 | N/A | `` | |
 | [Sparse Linear Concept Discovery Models](https://arxiv.org/pdf/2308.10782.pdf) | arXiv | 2023 | N/A | `` | |
 | [Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)](https://arxiv.org/pdf/2307.14239.pdf) | arXiv | 2023 | N/A | `` | |
