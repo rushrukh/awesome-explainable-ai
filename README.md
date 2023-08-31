@@ -295,6 +295,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/abs/10.1145/3580305.3599337) | KDD | 2023 | N/A | `` | |
 | [FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework](https://dl.acm.org/doi/abs/10.1145/3580305.3599354) | KDD | 2023 | N/A | `` | |
 | [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3580305.3599343) | KDD | 2023 | N/A | `` | |
+| [ESSA: Explanation Iterative Supervision via Saliency-guided Data Augmentation](https://dl.acm.org/doi/abs/10.1145/3580305.3599336) | KDD | 2023 | N/A | `` | |
 | [Counterfactual Explanations and Model Multiplicity: a Relational Verification View](https://proceedings.kr.org/2023/78/kr2023-0078-leofante-et-al.pdf) | Proceedings of KR | 2023 | N/A | `` | |
 | [Explainable Representations for Relation Prediction in Knowledge Graphs](https://proceedings.kr.org/2023/62/) | Proceedings of KR | 2023 | N/A | `` | |
 | [Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/64d1a2c33e2b3e04b8de3b24/1691460293298/ID97_Research+Paper_2023.pdf) | PMLR | 2023 | N/A | `` | |
@@ -302,5 +303,14 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Diffusion-based Visual Counterfactual Explanations - Towards Systematic Quantitative Evaluation](https://arxiv.org/pdf/2308.06100.pdf) | arXiv | 2023 | N/A | `` | |
 | [Testing methods of neural systems understanding](https://www.sciencedirect.com/science/article/pii/S1389041723000906) | Cognitive Systems Research | 2023 | N/A | `` | |
 | [Understanding CNN Hidden Neuron Activations Using Structured Background Knowledge and Deductive Reasoning](https://arxiv.org/pdf/2308.03999.pdf) | arXiv | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [An Explainable Federated Learning and Blockchain based Secure Credit Modeling Method](https://www.sciencedirect.com/science/article/abs/pii/S0377221723006677) | EJOR | 2023 | N/A | `` | |
+| [i-Align: an interpretable knowledge graph alignment model](https://link.springer.com/article/10.1007/s10618-023-00963-3) | DMKD | 2023 | N/A | `` | |
+| [Goodhart’s Law Applies to NLP’s Explanation Benchmarks](https://arxiv.org/pdf/2308.14272.pdf) | arXiv | 2023 | N/A | `` | |
+| [DELELSTM: DECOMPOSITION-BASED LINEAR EXPLAINABLE LSTM TO CAPTURE INSTANTANEOUS AND LONG-TERM EFFECTS IN TIME SERIES](https://arxiv.org/pdf/2308.13797.pdf) | arXiv | 2023 | N/A | `` | |
+| [BEYOND DISCRIMINATIVE REGIONS: SALIENCY MAPS AS ALTERNATIVES TO CAMS FOR WEAKLY SU- PERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2308.11052.pdf) | arXuv | 2023 | N/A | `` | |
+| [SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks](https://arxiv.org/pdf/2308.11845.pdf) | arXiv | 2023 | N/A | `` | |
+| [Sparse Linear Concept Discovery Models](https://arxiv.org/pdf/2308.10782.pdf) | arXiv | 2023 | N/A | `` | |
+| [Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)](https://arxiv.org/pdf/2307.14239.pdf) | arXiv | 2023 | N/A | `` | |
+| [KGTN: Knowledge Graph Transformer Network for explainable multi-category item recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006044) | KBS | 2023 | N/A | `` | |
+| [SAFE: Saliency-Aware Counterfactual Explanations for DNN-based Automated Driving Systems](https://arxiv.org/pdf/2307.15786.pdf) | arXiv | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
