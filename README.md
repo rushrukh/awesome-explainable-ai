@@ -75,6 +75,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Explaining by Removing: A Unified Framework for Model Explanation](https://www.jmlr.org/papers/volume22/20-1316/20-1316.pdf) | JMLR | 2021 | N/A | `` | |
 | [Explainable Active Learning (XAL): An Empirical Study of How Local Explanations Impact Annotator Experience](https://arxiv.org/abs/2001.09219) | PACMHCI | 2021 | N/A | `` | |
 | [Towards Robust and Reliable Algorithmic Recourse](https://arxiv.org/abs/2102.13620) | NeurIPS | 2021 | N/A | `` | |
+| [A Framework to Learn with Interpretation](https://proceedings.neurips.cc/paper/2021/file/cbb6a3b884f4f88b3a8e3d44c636cbd8-Paper.pdf) | NeurIPS | 2021 | N/A | `` | |
 | [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278) | FAccT | 2021 | N/A | `` | |
 | [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810) | CHI | 2021 | N/A | `` | |
 | [Explainable Reinforcement Learning via Model Transforms](https://arxiv.org/abs/2209.12006) | NeurIPS | 2021 | N/A | `` | |
