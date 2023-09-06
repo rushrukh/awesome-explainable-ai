@@ -164,6 +164,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Looking Inside the Black-Box: Logic-based Explanations for Neural Networks](https://proceedings.kr.org/2022/45/) | KR | 2022 | N/A | `` | |
 | [Entropy-Based Logic Explanations of Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/20551) | AAAI | 2022 | N/A | `` | |
 | [Explainable Neural Rule Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512023) | WWW | 2022 | N/A | `` | |
+| [Explainable Deep Learning: A Field Guide for the Uninitiated](https://www.jair.org/index.php/jair/article/view/13200) | JAIR | 2022 | N/A | `` | |
 | []() |  |  | N/A | `` | |
 
 
