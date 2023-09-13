@@ -326,14 +326,8 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Neuro-Symbolic Class Expression Learning](https://www.ijcai.org/proceedings/2023/0403.pdf) | IJCAI | 2023 | N/A | `` | |
 | [A Logic-based Approach to Contrastive Explainability for Neurosymbolic Visual Question Answering](https://www.ijcai.org/proceedings/2023/0408.pdf) | IJCAI | 2023 | N/A | `` | |
 | [Cardinality-Minimal Explanations for Monotonic Neural Networks](https://www.ijcai.org/proceedings/2023/0409.pdf) | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
-| []() | IJCAI | 2023 | N/A | `` | |
+| [Unveiling Concepts Learned by a World-Class Chess-Playing Agent](https://www.ijcai.org/proceedings/2023/0541.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Explainable Text Classification via Attentive and Targeted Mixing Data Augmentation](https://www.ijcai.org/proceedings/2023/0565.pdf) | IJCAI | 2023 | N/A | `` | |
+| [On the Complexity of Counterfactual Reasoning](https://www.ijcai.org/proceedings/2023/0630.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Interpretable Local Concept-based Explanation with Human Feedback to Predict All-cause Mortality (Extended Abstract)](https://www.ijcai.org/proceedings/2023/0774.pdf) | IJCAI | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
