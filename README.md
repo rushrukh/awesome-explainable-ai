@@ -315,4 +315,25 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Revisiting the Performance-Explainability Trade-Off in Explainable Artificial Intelligence (XAI)](https://arxiv.org/pdf/2307.14239.pdf) | arXiv | 2023 | N/A | `` | |
 | [KGTN: Knowledge Graph Transformer Network for explainable multi-category item recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006044) | KBS | 2023 | N/A | `` | |
 | [SAFE: Saliency-Aware Counterfactual Explanations for DNN-based Automated Driving Systems](https://arxiv.org/pdf/2307.15786.pdf) | arXiv | 2023 | N/A | `` | |
+| [Explainable Multi-Agent Reinforcement Learning for Temporal Queries](https://www.ijcai.org/proceedings/2023/0007.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Advancing Post-Hoc Case-Based Explanation with Feature Highlighting](https://www.ijcai.org/proceedings/2023/0048.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Explanation-Guided Reward Alignment](https://www.ijcai.org/proceedings/2023/0053.pdf) | IJCAI | 2023 | N/A | `` | |
+| [FEAMOE: Fair, Explainable and Adaptive Mixture of Experts](https://www.ijcai.org/proceedings/2023/0055.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Statistically Significant Concept-based Explanation of Image Classifiers via Model Knockoffs](https://www.ijcai.org/proceedings/2023/0058.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Learning Prototype Classifiers for Long-Tailed Recognition](https://www.ijcai.org/proceedings/2023/0151.pdf) | IJCAI | 2023 | N/A | `` | |
+| [On Translations between ML Models for XAI Purposes](https://www.ijcai.org/proceedings/2023/0352.pdf) | IJCAI | 2023 | N/A | `` | |
+| [The Parameterized Complexity of Finding Concise Local Explanations](https://www.ijcai.org/proceedings/2023/0369.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Neuro-Symbolic Class Expression Learning](https://www.ijcai.org/proceedings/2023/0403.pdf) | IJCAI | 2023 | N/A | `` | |
+| [A Logic-based Approach to Contrastive Explainability for Neurosymbolic Visual Question Answering](https://www.ijcai.org/proceedings/2023/0408.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Cardinality-Minimal Explanations for Monotonic Neural Networks](https://www.ijcai.org/proceedings/2023/0409.pdf) | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
+| []() | IJCAI | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
