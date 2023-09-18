@@ -50,7 +50,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Learning Optimized Risk Scores](https://arxiv.org/pdf/1610.00168.pdf) | JMLR | 2019 | N/A | `` | |
 | [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361) | ACL | 2019 | N/A | `` | |
 | [Deep Neural Networks Constrained by Decision Rules](https://ojs.aaai.org/index.php/AAAI/article/view/4095) | AAAI | 2018 | N/A | `` | |
-| [Towards Automatic Concept-based Explanations](https://proceedings.neurips.cc/paper_files/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf) | NeurIPS | 2019 | N/A | `` | |
+| [Towards Automatic Concept-based Explanations](https://proceedings.neurips.cc/paper_files/paper/2019/file/77d2afcb31f6493e350fca61764efb9a-Paper.pdf) | NeurIPS | 2019 | [Github](https://github.com/amiratag/ACE) | `` | |
 
 ### 2020
 | Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
