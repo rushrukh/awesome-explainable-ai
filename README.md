@@ -222,6 +222,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Discover and Cure: Concept-aware Mitigation of Spurious Correlation](https://openreview.net/pdf?id=QDxtrlPmfB) | ICML | 2023 | N/A | `` | |
 | [PWSHAP: A Path-Wise Explanation Model for Targeted Variables](https://openreview.net/pdf?id=u8VEJNykA5) | ICML | 2023 | N/A | `` | |
 | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://openreview.net/pdf?id=YIWtM3GdZc) | ICML | 2023 | N/A | `` | |
+| [Counterfactual Analysis in Dynamic Latent-State Models](https://proceedings.mlr.press/v202/haugh23a/haugh23a.pdf) | ICML | 2023 | N/A | `` | |
 | [Tackling Shortcut Learning in Deep Neural Networks: An Iterative Approach with Interpretable Models](https://openreview.net/pdf?id=m5vnLHfNy7) | ICML Workshop | 2023 | N/A | `` | |
 | [Rethinking Interpretation: Input-Agnostic Saliency Mapping of Deep Visual Classifiers](https://ojs.aaai.org/index.php/AAAI/article/view/25089) | AAAI | 2023 | N/A | `` | |
 | [TopicFM: Robust and Interpretable Topic-Assisted Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/25341) | AAAI | 2023 | N/A | `` | |
@@ -331,4 +332,12 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Explainable Text Classification via Attentive and Targeted Mixing Data Augmentation](https://www.ijcai.org/proceedings/2023/0565.pdf) | IJCAI | 2023 | N/A | `` | |
 | [On the Complexity of Counterfactual Reasoning](https://www.ijcai.org/proceedings/2023/0630.pdf) | IJCAI | 2023 | N/A | `` | |
 | [Interpretable Local Concept-based Explanation with Human Feedback to Predict All-cause Mortality (Extended Abstract)](https://www.ijcai.org/proceedings/2023/0774.pdf) | IJCAI | 2023 | N/A | `` | |
+| [Good-looking but Lacking Faithfulness: Understanding Local Explanation Methods through Trend-based Testing](https://arxiv.org/pdf/2309.05679.pdf) | arXiv | 2023 | N/A | `` | |
+| [Counterfactual Explanations via Locally-guided Sequential Algorithmic Recourse](https://arxiv.org/pdf/2309.04211.pdf) | arXiv | 2023 | N/A | `` | |
+| [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://arxiv.org/pdf/2309.04676.pdf) | CIKM | 2023 | N/A | `` | |
+| [A Function Interpretation Benchmark for Evaluating Interpretability Methods](https://arxiv.org/pdf/2309.03886.pdf) | arXiv | 2023 | N/A | `` | |
+| [Explaining through Transformer Input Sampling](https://dial.uclouvain.be/pr/boreal/object/boreal%3A277791/datastream/PDF_01/view) | arXiv | 2023 | N/A | `` | |
+| []() |  |  | N/A | `` | |
+| []() |  |  | N/A | `` | |
+| []() |  |  | N/A | `` | |
 | []() |  |  | N/A | `` | |
