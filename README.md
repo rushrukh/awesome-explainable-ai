@@ -281,6 +281,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations](https://ojs.aaai.org/index.php/AAAI/article/view/26661) | AAAI | 2023 | N/A | `` | |
 | [Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery](https://ojs.aaai.org/index.php/AAAI/article/view/26679) | AAAI | 2023 | N/A | `` | |
 | [Monitoring Model Deterioration with Explainable Uncertainty Estimation via Non-parametric Bootstrap](https://ojs.aaai.org/index.php/AAAI/article/view/26755) | AAAI | 2023 | N/A | `` | |
+| [Interactive Concept Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/25736/25508) | AAAI | 2023 | N/A | `` | |
 | [Data-Efficient and Interpretable Tabular Anomaly Detection](https://arxiv.org/abs/2203.02034) | KDD | 2023 | N/A | `` | |
 | [Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599289) | KDD | 2023 | N/A | `` | |
 | [Hands-on Tutorial: "Explanations in AI: Methods, Stakeholders and Pitfalls"](https://dl.acm.org/doi/abs/10.1145/3580305.3599181) | KDD | 2023 | N/A | `` | |
