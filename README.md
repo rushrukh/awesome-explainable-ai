@@ -194,6 +194,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR | 2023 | N/A | `` | |
 | [Don't Lie to Me! Robust and Efficient Explainability With Verified Perturbation Analysis](https://arxiv.org/abs/2202.07728) | CVPR | 2023 | N/A | `` | |
 | [Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning](https://arxiv.org/abs/2304.04824) | CVPR | 2023 | N/A | `` | |
+| [Learning Bottleneck Concepts in Image Classification](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.html) | CVPR | 2023 | N/A | `` | |
 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/abs/2211.11158) | CVPR | 2023 | N/A | `` | |
 | [Interpretable Neural-Symbolic Concept Reasoning](https://arxiv.org/pdf/2304.14068.pdf) | ICML | 2023 | [Github](https://github.com/pietrobarbiero/pytorch_explain)                                                            |         | |
 | [Identifying Interpretable Subspaces in Image Representations](https://openreview.net/pdf?id=5YUyJYElAc) | ICML | 2023 | N/A | `` | |
