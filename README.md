@@ -340,7 +340,7 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://arxiv.org/pdf/2309.04676.pdf) | CIKM | 2023 | N/A | `` | |
 | [A Function Interpretation Benchmark for Evaluating Interpretability Methods](https://arxiv.org/pdf/2309.03886.pdf) | arXiv | 2023 | N/A | `` | |
 | [Explaining through Transformer Input Sampling](https://dial.uclouvain.be/pr/boreal/object/boreal%3A277791/datastream/PDF_01/view) | arXiv | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [Backtracking Counterfactuals](https://proceedings.mlr.press/v213/kugelgen23a/kugelgen23a.pdf) | CLeaR | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
 | []() |  |  | N/A | `` | |
 | []() |  |  | N/A | `` | |
