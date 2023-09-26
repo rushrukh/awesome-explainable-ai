@@ -342,5 +342,5 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Explaining through Transformer Input Sampling](https://dial.uclouvain.be/pr/boreal/object/boreal%3A277791/datastream/PDF_01/view) | arXiv | 2023 | N/A | `` | |
 | [Backtracking Counterfactuals](https://proceedings.mlr.press/v213/kugelgen23a/kugelgen23a.pdf) | CLeaR | 2023 | N/A | `` | |
 | [Text2Concept: Concept Activation Vectors Directly from Text](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/Moayeri_Text2Concept_Concept_Activation_Vectors_Directly_From_Text_CVPRW_2023_paper.pdf) | CVPR Workshop | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation](https://arxiv.org/pdf/2306.07304.pdf) | arXiv | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
