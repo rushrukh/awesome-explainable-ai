@@ -344,4 +344,5 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Text2Concept: Concept Activation Vectors Directly from Text](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/Moayeri_Text2Concept_Concept_Activation_Vectors_Directly_From_Text_CVPRW_2023_paper.pdf) | CVPR Workshop | 2023 | N/A | `` | |
 | [A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation](https://arxiv.org/pdf/2306.07304.pdf) | arXiv | 2023 | N/A | `` | |
 | [Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance](https://arxiv.org/pdf/2304.06715.pdf) | NeurIPS | 2023 | [Github](https://github.com/JonathanCrabbe/RobustXAI) | `` | |
+| [CLIP-DISSECT: AUTOMATIC DESCRIPTION OF NEU- RON REPRESENTATIONS IN DEEP VISION NETWORKS](https://openreview.net/pdf?id=iPWiwWHc1V) | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/CLIP-dissect/tree/main) | `` | |
 | []() |  |  | N/A | `` | |
