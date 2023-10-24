@@ -346,4 +346,9 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance](https://arxiv.org/pdf/2304.06715.pdf) | NeurIPS | 2023 | [Github](https://github.com/JonathanCrabbe/RobustXAI) | `` | |
 | [CLIP-DISSECT: AUTOMATIC DESCRIPTION OF NEU- RON REPRESENTATIONS IN DEEP VISION NETWORKS](https://openreview.net/pdf?id=iPWiwWHc1V) | ICLR | 2023 | [Github](https://github.com/Trustworthy-ML-Lab/CLIP-dissect/tree/main) | `` | |
 | [Label-free Concept Bottleneck Models](https://openreview.net/pdf?id=FlCg47MNvBA) | ICLR | 2023 | N/A | `` | |
+| [Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk) | ICLR | 2023 | N/A | `` | |
+| [Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes](https://openreview.net/forum?id=hWwY_Jq0xsN) | ICLR | 2023 | N/A | `` | |
+| [Re-calibrating Feature Attributions for Model Interpretation](https://openreview.net/forum?id=WUWJIV2Yxtp) | ICLR | 2023 | N/A | `` | |
+| [Post-hoc Concept Bottleneck Models ](https://openreview.net/forum?id=nA5AZ8CEyow) | ICLR | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
+
