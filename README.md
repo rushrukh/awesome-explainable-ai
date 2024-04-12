@@ -395,5 +395,22 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Interpretable Prototype-based Graph Information Bottleneck](https://papers.nips.cc/paper_files/paper/2023/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html) | NeurIPS | 2023 | N/A | `` | |
 | [Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](https://papers.nips.cc/paper_files/paper/2023/hash/f6a8b109d4d4fd64c75e94aaf85d9697-Abstract-Conference.html) | NeurIPS | 2023 | N/A | `` | |
 | [M4: A Unified XAI Benchmark for Faithfulness Evaluation of Feature Attribution Methods across Metrics, Modalities and Models](https://papers.nips.cc/paper_files/paper/2023/hash/05957c194f4c77ac9d91e1374d2def6b-Abstract-Datasets_and_Benchmarks.html) | NeurIPS | 2023 | N/A | `` | |
+| [InstructSafety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning](https://aclanthology.org/2023.findings-emnlp.700/) | EMNLP | 2023 | N/A | `` | |
+| [Towards Explainable and Accessible AI](https://aclanthology.org/2023.nlposs-1.28/) | EMNLP | 2023 | N/A | `` | |
+| [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/) | EMNLP | 2023 | N/A | `` | |
+| [INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback](https://aclanthology.org/2023.emnlp-main.365/) | EMNLP | 2023 | N/A | `` | |
+| [Goal-Driven Explainable Clustering via Language Descriptions](https://aclanthology.org/2023.emnlp-main.657/) | EMNLP | 2023 | N/A | `` | |
+| [VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights](https://aclanthology.org/2023.emnlp-main.718/) | EMNLP | 2023 | N/A | `` | |
+| [COFFEE: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation](https://aclanthology.org/2023.emnlp-main.819/) | EMNLP | 2023 | N/A | `` | |
+| [Hop, Union, Generate: Explainable Multi-hop Reasoning without Rationale Supervision](https://aclanthology.org/2023.emnlp-main.1001/) | EMNLP | 2023 | N/A | `` | |
+| [GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection](https://aclanthology.org/2023.emnlp-main.1035/) | EMNLP | 2023 | N/A | `` | |
+| [DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups](https://aclanthology.org/2023.emnlp-demo.34/) | EMNLP | 2023 | N/A | `` | |
+| [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://aclanthology.org/2023.emnlp-industry.64/) | EMNLP | 2023 | N/A | `` | |
+| [Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting](https://aclanthology.org/2023.emnlp-industry.69/) | EMNLP | 2023 | N/A | `` | |
+| [HARE: Explainable Hate Speech Detection with Step-by-Step Reasoning](https://aclanthology.org/2023.findings-emnlp.365/) | EMNLP | 2023 | N/A | `` | |
+| [Distilling ChatGPT for Explainable Automated Student Answer Assessment](https://aclanthology.org/2023.findings-emnlp.399/) | EMNLP | 2023 | N/A | `` | |
+| [Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models](https://aclanthology.org/2023.findings-emnlp.416/) | EMNLP | 2023 | N/A | `` | |
+| [Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning](https://aclanthology.org/2023.findings-emnlp.452/) | EMNLP | 2023 | N/A | `` | |
+| [InstructSafety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning](https://aclanthology.org/2023.findings-emnlp.700/) | EMNLP | 2023 | N/A | `` | |
 | []() |  |  | N/A | `` | |
 
