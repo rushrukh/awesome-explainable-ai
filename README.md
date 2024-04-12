@@ -412,5 +412,18 @@ A repository recent explainable AI/Interpretable ML approaches
 | [Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models](https://aclanthology.org/2023.findings-emnlp.416/) | EMNLP | 2023 | N/A | `` | |
 | [Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning](https://aclanthology.org/2023.findings-emnlp.452/) | EMNLP | 2023 | N/A | `` | |
 | [InstructSafety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning](https://aclanthology.org/2023.findings-emnlp.700/) | EMNLP | 2023 | N/A | `` | |
-| []() |  |  | N/A | `` | |
+| [Deep Integrated Explanations](https://dl.acm.org/doi/10.1145/3583780.3614836) | CIKM | 2023 | N/A | `` | |
+| [KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation](https://dl.acm.org/doi/10.1145/3583780.3614943) | CIKM | 2023 | N/A | `` | |
+| [Interpretable Fake News Detection with Graph Evidence](https://dl.acm.org/doi/10.1145/3583780.3614936) | CIKM | 2023 | N/A | `` | |
+| [PriSHAP: Prior-guided Shapley Value Explanations for Correlated Features](https://dl.acm.org/doi/10.1145/3583780.3615013) | CIKM | 2023 | N/A | `` | |
+| [A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings](https://dl.acm.org/doi/10.1145/3583780.3614763) | CIKM | 2023 | N/A | `` | |
+| [ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3583780.3614772) | CIKM | 2023 | N/A | `` | |
+| [Concept Evolution in Deep Learning Training: A Unified Interpretation Framework and Discoveries](https://dl.acm.org/doi/10.1145/3583780.3614819) | CIKM | 2023 | N/A | `` | |
+| [Explainable Spatio-Temporal Graph Neural Networks](https://dl.acm.org/doi/10.1145/3583780.3614871) | CIKM | 2023 | N/A | `` | |
+| [Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction](https://dl.acm.org/doi/10.1145/3583780.3615089) | CIKM | 2023 | N/A | `` | |
+| [Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations](https://dl.acm.org/doi/10.1145/3583780.3614885) | CIKM | 2023 | N/A | `` | |
+| [NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR](https://dl.acm.org/doi/10.1145/3583780.3614993) | CIKM | 2023 | N/A | `` | |
+| [Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts](https://dl.acm.org/doi/10.1145/3583780.3614827) | CIKM | 2023 | N/A | `` | |
+| [Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems](https://dl.acm.org/doi/10.1145/3583780.3614823) | CIKM | 2023 | N/A | `` | |
+| []() | CIKM | 2023 | N/A | `` | |
 
