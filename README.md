@@ -425,5 +425,43 @@ A repository recent explainable AI/Interpretable ML approaches
 | [NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR](https://dl.acm.org/doi/10.1145/3583780.3614993) | CIKM | 2023 | N/A | `` | |
 | [Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts](https://dl.acm.org/doi/10.1145/3583780.3614827) | CIKM | 2023 | N/A | `` | |
 | [Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems](https://dl.acm.org/doi/10.1145/3583780.3614823) | CIKM | 2023 | N/A | `` | |
-| []() | CIKM | 2023 | N/A | `` | |
+| []() |  | 2023 | N/A | `` | |
 
+
+### 2024
+| Title                                                                                                                                                                                                                    |            Venue          |         Year         |        Code        |                  Keywords                  |              Summary              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | :------------------------ | :------------------- | :----------------- | :----------------------------------------- | :-------------------------------- |
+| [Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/30232) | AAAI | 2024 | N/A | `` | |
+| [Evaluating Pre-trial Programs Using Interpretable Machine Learning Matching Algorithms for Causal Inference](https://ojs.aaai.org/index.php/AAAI/article/view/30239) | AAAI | 2024 | N/A | `` | |
+| [On the Importance of Application-Grounded Experimental Design for Evaluating Explainable ML Methods](https://ojs.aaai.org/index.php/AAAI/article/view/30082) | AAAI | 2024 | N/A | `` | |
+| [A Framework for Data-Driven Explainability in Mathematical Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30081) | AAAI | 2024 | N/A | `` | |
+| [Q-SENN: Quantized Self-Explaining Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/30145) | AAAI | 2024 | N/A | `` | |
+| [LR-XFL: Logical Reasoning-Based Explainable Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/30179) | AAAI | 2024 | N/A | `` | |
+| [Trade-Offs in Fine-Tuned Diffusion Models between Accuracy and Interpretability](https://ojs.aaai.org/index.php/AAAI/article/view/30095) | AAAI | 2024 | N/A | `` | |
+| [π-Light: Programmatic Interpretable Reinforcement Learning for Resource-Limited Traffic Signal Control](https://ojs.aaai.org/index.php/AAAI/article/view/30103) | AAAI | 2024 | N/A | `` | |
+| [Interpretability Benchmark for Evaluating Spatial Misalignment of Prototypical Parts Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/30154) | AAAI | 2024 | N/A | `` | |
+| [Sparsity-Guided Holistic Explanation for LLMs with Interpretable Inference-Time Intervention](https://ojs.aaai.org/index.php/AAAI/article/view/30160) | AAAI | 2024 | N/A | `` | |
+| [LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack](https://ojs.aaai.org/index.php/AAAI/article/view/29950) | AAAI | 2024 | N/A | `` | |
+| [Learning Robust Rationales for Model Explainability: A Guidance-Based Approach](https://ojs.aaai.org/index.php/AAAI/article/view/29783) | AAAI | 2024 | N/A | `` | |
+| [Explaining Generalization Power of a DNN Using Interactive Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/29655) | AAAI | 2024 | N/A | `` | |
+| [Federated Causality Learning with Explainable Adaptive Optimizatio](https://ojs.aaai.org/index.php/AAAI/article/view/29566) | AAAI | 2024 | N/A | `` | |
+| [Learning Performance Maximizing Ensembles with Explainability Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/29378) | AAAI | 2024 | N/A | `` | |
+| [Towards Modeling Uncertainties of Self-Explaining Neural Networks via Conformal Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/29382) | AAAI | 2024 | N/A | `` | |
+| [Towards Learning and Explaining Indirect Causal Effects in Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/29399) | AAAI | 2024 | N/A | `` | |
+| [GINN-LP: A Growing Interpretable Neural Network for Discovering Multivariate Laurent Polynomial Equations](https://ojs.aaai.org/index.php/AAAI/article/view/29396) | AAAI | 2024 | N/A | `` | |
+| [Pantypes: Diverse Representatives for Self-Explainable Models](https://ojs.aaai.org/index.php/AAAI/article/view/29223) | AAAI | 2024 | N/A | `` | |
+| [Factorized Explainer for Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/29157) | AAAI | 2024 | N/A | `` | |
+| [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29059) | AAAI | 2024 | N/A | `` | |
+| [Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28907) | AAAI | 2024 | N/A | `` | |
+| [A General Theoretical Framework for Learning Smallest Interpretable Models](https://ojs.aaai.org/index.php/AAAI/article/view/28937) | AAAI | 2024 | N/A | `` | |
+| [Knowledge-Aware Explainable Reciprocal Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/28708) | AAAI | 2024 | N/A | `` | |
+| [Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward](https://ojs.aaai.org/index.php/AAAI/article/view/28777) | AAAI | 2024 | N/A | `` | |
+| [Finding Interpretable Class-Specific Patterns through Efficient Neural Search](https://ojs.aaai.org/index.php/AAAI/article/view/28756) | AAAI | 2024 | N/A | `` | |
+| [Enhance Sketch Recognition’s Explainability via Semantic Component-Level Parsing](https://ojs.aaai.org/index.php/AAAI/article/view/28607) | AAAI | 2024 | N/A | `` | |
+| [B-spine: Learning B-spline Curve Representation for Robust and Interpretable Spinal Curvature Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28346) | AAAI | 2024 | N/A | `` | |
+| [A Convolutional Neural Network Interpretable Framework for Human Ventral Visual Pathway Representation](https://ojs.aaai.org/index.php/AAAI/article/view/28461) | AAAI | 2024 | N/A | `` | |
+| [NeSyFOLD: A Framework for Interpretable Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28235) | AAAI | 2024 | N/A | `` | |
+| [Knowledge-Aware Neuron Interpretation for Scene Classification](https://ojs.aaai.org/index.php/AAAI/article/view/27965) | AAAI | 2024 | N/A | `` | |
+| [MICA: Towards Explainable Skin Lesion Diagnosis via Multi-Level Image-Concept Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/27842) | AAAI | 2024 | N/A | `` | |
+| [Interpretable3D: An Ad-Hoc Interpretable Classifier for 3D Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/view/27944) | AAAI | 2024 | N/A | `` | |
+| []() |  | 2024 | N/A | `` | |
