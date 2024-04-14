@@ -267,6 +267,7 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Towards More Robust Interpretation via Local Gradient Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/25986) | AAAI | 2023 | N/A | `` | |
 | [Towards Fine-Grained Explainability for Heterogeneous Graph Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/26040) | AAAI | 2023 | N/A | `` | |
 | [Local Explanations for Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26081) | AAAI | 2023 | N/A | `` | |
+| [ConceptX: A Framework for Latent Concept Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/27057) | AAAI | 2023 | N/A | `` | |
 | [XClusters: Explainability-First Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25963) | AAAI | 2023 | N/A | `` | |
 | [Explaining Random Forests Using Bipolar Argumentation and Markov Networks](https://ojs.aaai.org/index.php/AAAI/article/view/26132) | AAAI | 2023 | N/A | `` | |
 | [Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/26267) | AAAI | 2023 | N/A | `` | |
