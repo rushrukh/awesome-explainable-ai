@@ -464,4 +464,5 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Knowledge-Aware Neuron Interpretation for Scene Classification](https://ojs.aaai.org/index.php/AAAI/article/view/27965) | AAAI | 2024 | N/A | `` | |
 | [MICA: Towards Explainable Skin Lesion Diagnosis via Multi-Level Image-Concept Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/27842) | AAAI | 2024 | N/A | `` | |
 | [Interpretable3D: An Ad-Hoc Interpretable Classifier for 3D Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/view/27944) | AAAI | 2024 | N/A | `` | |
+| [Learning Audio Concepts from Counterfactual Natural Language](https://ieeexplore.ieee.org/document/10446736) | ICASSP | 2024 | N/A | `` | |
 | []() |  | 2024 | N/A | `` | |
