@@ -499,3 +499,18 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Understanding Video Transformers via Universal Concept Discovery](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Understanding_Video_Transformers_via_Universal_Concept_Discovery_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
 | [A Unified and Interpretable Emotion Representation and Expression Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Paskaleva_A_Unified_and_Interpretable_Emotion_Representation_and_Expression_Generation_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
 | [Data Poisoning based Backdoor Attacks to Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Are Logistic Models Really Interpretable?](https://www.ijcai.org/proceedings/2024/0041.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability](https://www.ijcai.org/proceedings/2024/0043.pdf) | IJCAI | 2024 | N/A | `` | |
+| [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/0066.pdf) | IJCAI | 2024 | N/A | `` | |
+| [ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition](https://www.ijcai.org/proceedings/2024/0168.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Concept-Level Causal Explanation Method for Brain Function Network Classification](https://www.ijcai.org/proceedings/2024/0342.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Capturing Knowledge Graphs and Rules with Octagon Embeddings](https://www.ijcai.org/proceedings/2024/0364.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Constructive Interpolation and Concept-Based Beth Definability for Description Logics via Sequents](https://www.ijcai.org/proceedings/2024/0386.pdf) | IJCAI | 2024 | N/A | `` | |
+| ["NELLIE: A Neuro-Symbolic Inference Engine for Grounded, Compositional, and Explainable Reasoning"](https://www.ijcai.org/proceedings/2024/0399.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Cutting the Black Box: Conceptual Interpretation of a Deep Neural Net with Multi-Modal Embeddings and Multi-Criteria Decision Aid](https://www.ijcai.org/proceedings/2024/0406.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Interpretable Network Visualizations: A Human-in-the-Loop Approach for Post-hoc Explainability of CNN-based Image Classification](https://www.ijcai.org/proceedings/2024/0411.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms](https://www.ijcai.org/proceedings/2024/0476.pdf) | IJCAI | 2024 | N/A | `` | |
+| [EMOTE: An Explainable Architecture for Modelling the Other through Empathy](https://www.ijcai.org/proceedings/2024/0539.pdf) | IJCAI | 2024 | N/A | `` | |
+| [SEMANTIFY: Unveiling Memes with Robust Interpretability beyond Input Attribution](https://www.ijcai.org/proceedings/2024/0684.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Learning Label Dependencies for Visual Information Extraction](https://www.ijcai.org/proceedings/2024/0731.pdf) | IJCAI | 2024 | N/A | `` | |
+
