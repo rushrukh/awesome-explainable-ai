@@ -582,3 +582,12 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Interpretable Knowledge Tracing with Multiscale State Representation](https://doi.org/10.1145/3589334.3645373) | WWW | 2024 | N/A | `` | |
 | [Towards the Identifiability and Explainability for Personalized Learner Modeling: An Inductive Paradigm](https://doi.org/10.1145/3589334.3645437) | WWW | 2024 | N/A | `` | |
 | [A Counterfactual Framework for Learning and Evaluating Explanations for Recommender Systems](https://doi.org/10.1145/3589334.3645560) | WWW | 2024 | N/A | `` | |
+| [Learning Audio Concepts from Counterfactual Natural Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446736) | ICASSP | 2024 | N/A | `` | |
+| [An Explainable Proxy Model for Multilabel Audio Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446648) | ICASSP | 2024 | N/A | `` | |
+| [Learning Ontology Informed Representations with Constraints for Acoustic Event Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447638) | ICASSP | 2024 | N/A | `` | |
+| [Predict and Interpret Health Risk Using Ehr Through Typical Patients](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447313) | ICASSP | 2024 | N/A | `` | |
+| [Learning a Convex Patch-Based Synthesis Model via Deep Equilibrium](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446773) | ICASSP | 2024 | N/A | `` | |
+| [Implicit-Knowledge-Guided Align Before Understanding for KB-VQA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10448108) | ICASSP | 2024 | N/A | `` | |
+| [Unlocking Deep Learning: A BP-Free Approach for Parallel Block-Wise Training of Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447377) | ICASSP | 2024 | N/A | `` | |
+| [Improved Image Captioning Via Knowledge Graph-Augmented Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447637) | ICASSP | 2024 | N/A | `` | |
+| [Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447706) | ICASSP | 2024 | N/A | `` | |
