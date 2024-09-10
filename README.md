@@ -570,5 +570,15 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Detecting, Explaining, and Mitigating Memorization in Diffusion Models](https://openreview.net/attachment?id=84n3UwkH7b&name=pdf) | ICLR | 2024 | N/A | `` | |
 | [LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models](https://openreview.net/attachment?id=aIok3ZD9to&name=pdf) | ICLR | 2024 | N/A | `` | |
 | [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://openreview.net/attachment?id=5Ca9sSzuDp&name=pdf) | ICLR | 2024 | N/A | `` | |
-
-
+| [Spot Check Equivalence: An Interpretable Metric for Information Elicitation Mechanisms](https://doi.org/10.1145/3589334.3645679) | WWW | 2024 | N/A | `` | |
+| [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://doi.org/10.1145/3589334.3645551) | WWW | 2024 | N/A | `` | |
+| [Adversarial Mask Explainer for Graph Neural Networks](https://doi.org/10.1145/3589334.3645608) | WWW | 2024 | N/A | `` | |
+| [Globally Interpretable Graph Learning via Distribution Matching](https://doi.org/10.1145/3589334.3645674) | WWW | 2024 | N/A | `` | |
+| [Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models](https://doi.org/10.1145/3589334.3645376) | WWW | 2024 | N/A | `` | |
+| [A Method for Assessing Inference Patterns Captured by Embedding Models in Knowledge Graphs](https://doi.org/10.1145/3589334.3645505) | WWW | 2024 | N/A | `` | |
+| [Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models](https://doi.org/10.1145/3589334.3645381) | WWW | 2024 | N/A | `` | |
+| [NETEVOLVE: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features](https://doi.org/10.1145/3589334.3647982) | WWW | 2024 | N/A | `` | |
+| [Invariant Graph Learning for Causal Effect Estimation](https://doi.org/10.1145/3589334.3645549) | WWW | 2024 | N/A | `` | |
+| [Interpretable Knowledge Tracing with Multiscale State Representation](https://doi.org/10.1145/3589334.3645373) | WWW | 2024 | N/A | `` | |
+| [Towards the Identifiability and Explainability for Personalized Learner Modeling: An Inductive Paradigm](https://doi.org/10.1145/3589334.3645437) | WWW | 2024 | N/A | `` | |
+| [A Counterfactual Framework for Learning and Evaluating Explanations for Recommender Systems](https://doi.org/10.1145/3589334.3645560) | WWW | 2024 | N/A | `` | |
