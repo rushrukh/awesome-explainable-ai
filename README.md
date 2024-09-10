@@ -560,4 +560,15 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Analysis for Abductive Learning and Neural-Symbolic Reasoning Shortcuts](https://proceedings.mlr.press/v235/yang24ac.html) | ICML | 2024 | N/A | `` | |
 | [Learning Causal Dynamics Models in Object-Oriented Environments](https://proceedings.mlr.press/v235/yu24j.html) | ICML | 2024 | N/A | `` | |
 | [ContPhy: Continuum Physical Concept Learning and Reasoning from Videos](https://proceedings.mlr.press/v235/zheng24l.html) | ICML | 2024 | N/A | `` | |
+| [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://openreview.net/attachment?id=ekeyCgeRfC&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [The mechanistic basis of data dependence and abrupt learning in an in-context classification task](https://openreview.net/attachment?id=aN4Jf6Cx69&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Provable Compositional Generalization for Object-Centric Learning](https://openreview.net/attachment?id=7VPTUWkiDQ&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts](https://openreview.net/attachment?id=KUNzEQMWU7&name=pdf) | ICLR | 2024 | N/A | `` | |
+| ["What Data Benefits My Classifier?" Enhancing Model Performance and Interpretability through Influence-Based Data Selection](https://openreview.net/attachment?id=HE9eUQlAvo&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Vision Transformers Need Registers](https://openreview.net/attachment?id=2dnO3LLiJ1&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Robust agents learn causal world models](https://openreview.net/attachment?id=pOoKI3ouv1&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Detecting, Explaining, and Mitigating Memorization in Diffusion Models](https://openreview.net/attachment?id=84n3UwkH7b&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models](https://openreview.net/attachment?id=aIok3ZD9to&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://openreview.net/attachment?id=5Ca9sSzuDp&name=pdf) | ICLR | 2024 | N/A | `` | |
+
 
