@@ -464,6 +464,129 @@ A repository containing recent explainable AI/Interpretable ML approaches
 | [Knowledge-Aware Neuron Interpretation for Scene Classification](https://ojs.aaai.org/index.php/AAAI/article/view/27965) | AAAI | 2024 | N/A | `` | |
 | [MICA: Towards Explainable Skin Lesion Diagnosis via Multi-Level Image-Concept Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/27842) | AAAI | 2024 | N/A | `` | |
 | [Interpretable3D: An Ad-Hoc Interpretable Classifier for 3D Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/view/27944) | AAAI | 2024 | N/A | `` | |
-| [Learning Audio Concepts from Counterfactual Natural Language](https://ieeexplore.ieee.org/document/10446736) | ICASSP | 2024 | N/A | `` | |
 | [Unifying Interpretability and Explainability for Alzheimer's Disease Progression Prediction](https://arxiv.org/abs/2406.07777) | Arxiv | 2024 | [Code](https://github.com/rfali/xrlad) | `` | |
 | []() |  | 2024 | N/A | `` | |
+| [A Brain-Inspired Way of Reducing the Network Complexity via Concept-Regularized Coding for Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/27811) | AAAI | 2024 | N/A | `` | |
+| [Visual Chain-of-Thought Prompting for Knowledge-Based Visual Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/27888) | AAAI | 2024 | N/A | `` | |
+| [Beyond Prototypes: Semantic Anchor Regularization for Better Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/27958) | AAAI | 2024 | N/A | `` | |
+| [PICNN: A Pathway towards Interpretable Convolutional Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/27971) | AAAI | 2024 | N/A | `` | |
+| [MagiCapture: High-Resolution Multi-Concept Portrait Customization](https://ojs.aaai.org/index.php/AAAI/article/view/28020) | AAAI | 2024 | N/A | `` | |
+| [AMD: Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion](https://ojs.aaai.org/index.php/AAAI/article/view/28042) | AAAI | 2024 | N/A | `` | |
+| [Towards More Faithful Natural Language Explanation Using Multi-Level Contrastive Learning in VQA](https://ojs.aaai.org/index.php/AAAI/article/view/28065) | AAAI | 2024 | N/A | `` | |
+| [ViTree: Single-Path Neural Tree for Step-Wise Interpretable Fine-Grained Visual Categorization](https://ojs.aaai.org/index.php/AAAI/article/view/28067) | AAAI | 2024 | N/A | `` | |
+| [Text-to-Image Generation for Abstract Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/28122) | AAAI | 2024 | N/A | `` | |
+| [Boosting Multiple Instance Learning Models for Whole Slide Image Classification: A Model-Agnostic Framework Based on Counterfactual Inference](https://ojs.aaai.org/index.php/AAAI/article/view/28135) | AAAI | 2024 | N/A | `` | |
+| [Set Prediction Guided by Semantic Concepts for Diverse Video Captioning](https://ojs.aaai.org/index.php/AAAI/article/view/28183) | AAAI | 2024 | N/A | `` | |
+| [Understanding the Role of the Projector in Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/28219) | AAAI | 2024 | N/A | `` | |
+| [Concept-Guided Prompt Learning for Generalization in Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/28568) | AAAI | 2024 | N/A | `` | |
+| [Automatic Core-Guided Reformulation via Constraint Explanation and Condition Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28645) | AAAI | 2024 | N/A | `` | |
+| [Learning to Pivot as a Smart Expert](https://ojs.aaai.org/index.php/AAAI/article/view/28646) | AAAI | 2024 | N/A | `` | |
+| [Explainable Origin-Destination Crowd Flow Interpolation via Variational Multi-Modal Recurrent Graph Auto-Encoder](https://ojs.aaai.org/index.php/AAAI/article/view/28796) | AAAI | 2024 | N/A | `` | |
+| [Explaining Reinforcement Learning Agents through Counterfactual Action Outcomes](https://ojs.aaai.org/index.php/AAAI/article/view/28863) | AAAI | 2024 | N/A | `` | |
+| [Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/28999) | AAAI | 2024 | N/A | `` | |
+| [Unsupervised Object Interaction Learning with Counterfactual Dynamics Models](https://ojs.aaai.org/index.php/AAAI/article/view/29039) | AAAI | 2024 | N/A | `` | |
+| [NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/html/Dalva_NoiseCLR_A_Contrastive_Learning_Approach_for_Unsupervised_Discovery_of_Interpretable_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [ExMap: Leveraging Explainability Heatmaps for Unsupervised Group Robustness to Spurious Correlations](https://openaccess.thecvf.com/content/CVPR2024/html/Chakraborty_ExMap_Leveraging_Explainability_Heatmaps_for_Unsupervised_Group_Robustness_to_Spurious_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Interpretable Measures of Conceptual Similarity by Complexity-Constrained Descriptive Auto-Encoding](https://openaccess.thecvf.com/content/CVPR2024/html/Achille_Interpretable_Measures_of_Conceptual_Similarity_by_Complexity-Constrained_Descriptive_Auto-Encoding_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions](https://openaccess.thecvf.com/content/CVPR2024/html/Padmanabhan_Explaining_the_Implicit_Neural_Canvas_Connecting_Pixels_to_Neurons_by_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Visual_Concept_Connectome_VCC_Open_World_Concept_Discovery_and_their_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Link-Context Learning for Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/html/Tai_Link-Context_Learning_for_Multimodal_LLMs_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Explaining CLIP's Performance Disparities on Data from Blind/Low Vision Users](https://openaccess.thecvf.com/content/CVPR2024/html/Massiceti_Explaining_CLIPs_Performance_Disparities_on_Data_from_BlindLow_Vision_Users_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Learning Structure-from-Motion with Graph Attention Networks](https://openaccess.thecvf.com/content/CVPR2024/html/Brynte_Learning_Structure-from-Motion_with_Graph_Attention_Networks_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GroupContrast_Semantic-aware_Self-supervised_Representation_Learning_for_3D_Understanding_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Building Optimal Neural Architectures using Interpretable Knowledge](https://openaccess.thecvf.com/content/CVPR2024/html/Mills_Building_Optimal_Neural_Architectures_using_Interpretable_Knowledge_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Understanding Video Transformers via Universal Concept Discovery](https://openaccess.thecvf.com/content/CVPR2024/html/Kowal_Understanding_Video_Transformers_via_Universal_Concept_Discovery_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [A Unified and Interpretable Emotion Representation and Expression Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Paskaleva_A_Unified_and_Interpretable_Emotion_Representation_and_Expression_Generation_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Data Poisoning based Backdoor Attacks to Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Data_Poisoning_based_Backdoor_Attacks_to_Contrastive_Learning_CVPR_2024_paper.html) | CVPR | 2024 | N/A | `` | |
+| [Are Logistic Models Really Interpretable?](https://www.ijcai.org/proceedings/2024/0041.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability](https://www.ijcai.org/proceedings/2024/0043.pdf) | IJCAI | 2024 | N/A | `` | |
+| [SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving](https://www.ijcai.org/proceedings/2024/0066.pdf) | IJCAI | 2024 | N/A | `` | |
+| [ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition](https://www.ijcai.org/proceedings/2024/0168.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Concept-Level Causal Explanation Method for Brain Function Network Classification](https://www.ijcai.org/proceedings/2024/0342.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Capturing Knowledge Graphs and Rules with Octagon Embeddings](https://www.ijcai.org/proceedings/2024/0364.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Constructive Interpolation and Concept-Based Beth Definability for Description Logics via Sequents](https://www.ijcai.org/proceedings/2024/0386.pdf) | IJCAI | 2024 | N/A | `` | |
+| ["NELLIE: A Neuro-Symbolic Inference Engine for Grounded, Compositional, and Explainable Reasoning"](https://www.ijcai.org/proceedings/2024/0399.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Cutting the Black Box: Conceptual Interpretation of a Deep Neural Net with Multi-Modal Embeddings and Multi-Criteria Decision Aid](https://www.ijcai.org/proceedings/2024/0406.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Interpretable Network Visualizations: A Human-in-the-Loop Approach for Post-hoc Explainability of CNN-based Image Classification](https://www.ijcai.org/proceedings/2024/0411.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms](https://www.ijcai.org/proceedings/2024/0476.pdf) | IJCAI | 2024 | N/A | `` | |
+| [EMOTE: An Explainable Architecture for Modelling the Other through Empathy](https://www.ijcai.org/proceedings/2024/0539.pdf) | IJCAI | 2024 | N/A | `` | |
+| [SEMANTIFY: Unveiling Memes with Robust Interpretability beyond Input Attribution](https://www.ijcai.org/proceedings/2024/0684.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Learning Label Dependencies for Visual Information Extraction](https://www.ijcai.org/proceedings/2024/0731.pdf) | IJCAI | 2024 | N/A | `` | |
+| [Unsupervised Concept Discovery Mitigates Spurious Correlations](https://proceedings.mlr.press/v235/arefin24a.html) | ICML | 2024 | N/A | `` | |
+| [Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning](https://proceedings.mlr.press/v235/deuschel24a.html) | ICML | 2024 | N/A | `` | |
+| [Removing Spurious Concepts from Neural Network Representations via Joint Subspace Estimation](https://proceedings.mlr.press/v235/holstege24a.html) | ICML | 2024 | N/A | `` | |
+| [An Image is Worth Multiple Words: Discovering Object Level Concepts using Multi-Concept Prompt Learning](https://proceedings.mlr.press/v235/jin24g.html) | ICML | 2024 | N/A | `` | |
+| [Understanding Inter-Concept Relationships in Concept-Based Models](https://proceedings.mlr.press/v235/raman24a.html) | ICML | 2024 | N/A | `` | |
+| [Towards Compositionality in Concept Learning](https://proceedings.mlr.press/v235/stein24b.html) | ICML | 2024 | N/A | `` | |
+| [Learning to Intervene on Concept Bottlenecks](https://proceedings.mlr.press/v235/steinmann24a.html) | ICML | 2024 | N/A | `` | |
+| [Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models](https://proceedings.mlr.press/v235/wang24bo.html) | ICML | 2024 | N/A | `` | |
+| [Position: Explain to Question not to Justify](https://proceedings.mlr.press/v235/biecek24a.html) | ICML | 2024 | N/A | `` | |
+| [Explaining Graph Neural Networks via Structure-aware Interaction Index](https://proceedings.mlr.press/v235/bui24b.html) | ICML | 2024 | N/A | `` | |
+| [How Interpretable Are Interpretable Graph Neural Networks?](https://proceedings.mlr.press/v235/chen24b.html) | ICML | 2024 | N/A | `` | |
+| [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://proceedings.mlr.press/v235/chen24ao.html) | ICML | 2024 | N/A | `` | |
+| [On Mechanistic Knowledge Localization in Text-to-Image Generative Models](https://proceedings.mlr.press/v235/basu24b.html) | ICML | 2024 | N/A | `` | |
+| [Relational Learning in Pre-Trained Models: A Theory from Hypergraph Recovery Perspective](https://proceedings.mlr.press/v235/chen24l.html) | ICML | 2024 | N/A | `` | |
+| [How Learning by Reconstruction Produces Uninformative Features For Perception](https://proceedings.mlr.press/v235/balestriero24b.html) | ICML | 2024 | N/A | `` | |
+| [SelfIE: Self-Interpretation of Large Language Model Embeddings](https://proceedings.mlr.press/v235/chen24ao.html) | ICML | 2024 | N/A | `` | |
+| [Generating In-Distribution Proxy Graphs for Explaining Graph Neural Networks](https://proceedings.mlr.press/v235/chen24bd.html) | ICML | 2024 | N/A | `` | |
+| [Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations](https://proceedings.mlr.press/v235/chen24bl.html) | ICML | 2024 | N/A | `` | |
+| [RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation](https://proceedings.mlr.press/v235/cheng24j.html) | ICML | 2024 | N/A | `` | |
+| [Learning Cognitive Maps from Transformer Representations for Efficient Planning in Partially Observed Environments](https://proceedings.mlr.press/v235/dedieu24a.html) | ICML | 2024 | N/A | `` | |
+| [Explaining Probabilistic Models with Distributional Values](https://proceedings.mlr.press/v235/franceschi24a.html) | ICML | 2024 | N/A | `` | |
+| [Neuro-Visualizer: A Novel Auto-Encoder-Based Loss Landscape Visualization Method With an Application in Knowledge-Guided Machine Learning](https://proceedings.mlr.press/v235/elhamod24a.html) | ICML | 2024 | N/A | `` | |
+| [FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning](https://proceedings.mlr.press/v235/fu24j.html) | ICML | 2024 | N/A | `` | |
+| [Interpretability Illusions in the Generalization of Simplified Models](https://proceedings.mlr.press/v235/friedman24a.html) | ICML | 2024 | N/A | `` | |
+| [Tripod: Three Complementary Inductive Biases for Disentangled Representation Learning](https://proceedings.mlr.press/v235/hsu24a.html) | ICML | 2024 | N/A | `` | |
+| [Improving Interpretation Faithfulness for Vision Transformers](https://proceedings.mlr.press/v235/hu24k.html) | ICML | 2024 | N/A | `` | |
+| [Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks](https://proceedings.mlr.press/v235/jagadish24a.html) | ICML | 2024 | N/A | `` | |
+| [Understanding the Learning Dynamics of Alignment with Human Feedback](https://proceedings.mlr.press/v235/im24a.html) | ICML | 2024 | N/A | `` | |
+| [An Information-Theoretic Analysis of In-Context Learning](https://proceedings.mlr.press/v235/jeon24a.html) | ICML | 2024 | N/A | `` | |
+| [Learning to Infer Generative Template Programs for Visual Concepts](https://proceedings.mlr.press/v235/jones24a.html) | ICML | 2024 | N/A | `` | |
+| [Learning Decision Trees and Forests with Algorithmic Recourse](https://proceedings.mlr.press/v235/kanamori24a.html) | ICML | 2024 | N/A | `` | |
+| [From Neurons to Neutrons: A Case Study in Interpretability](https://proceedings.mlr.press/v235/kitouni24a.html) | ICML | 2024 | N/A | `` | |
+| [Learning Causal Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition](https://proceedings.mlr.press/v235/li24h.html) | ICML | 2024 | N/A | `` | |
+| [KnowFormer: Revisiting Transformers for Knowledge Graph Reasoning](https://proceedings.mlr.press/v235/liu24au.html) | ICML | 2024 | N/A | `` | |
+| [Attention Meets Post-hoc Interpretability: A Mathematical Perspective](https://proceedings.mlr.press/v235/lopardo24a.html) | ICML | 2024 | N/A | `` | |
+| [End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations](https://proceedings.mlr.press/v235/luo24j.html) | ICML | 2024 | N/A | `` | |
+| [Finding NEM-U: Explaining unsupervised representation learning through neural network generated explanation masks](https://proceedings.mlr.press/v235/moller24a.html) | ICML | 2024 | N/A | `` | |
+| [Learning High-Order Relationships of Brain Regions](https://proceedings.mlr.press/v235/qiu24b.html) | ICML | 2024 | N/A | `` | |
+| [Mechanistic Neural Networks for Scientific Machine Learning](https://proceedings.mlr.press/v235/pervez24a.html) | ICML | 2024 | N/A | `` | |
+| [Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Input](https://proceedings.mlr.press/v235/peng24d.html) | ICML | 2024 | N/A | `` | |
+| [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](https://proceedings.mlr.press/v235/tamkin24a.html) | ICML | 2024 | N/A | `` | |
+| [Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features](https://proceedings.mlr.press/v235/silva24c.html) | ICML | 2024 | N/A | `` | |
+| [Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions](https://proceedings.mlr.press/v235/wang24aq.html) | ICML | 2024 | N/A | `` | |
+| [Explain Temporal Black-Box Models via Functional Decomposition](https://proceedings.mlr.press/v235/yang24y.html) | ICML | 2024 | N/A | `` | |
+| [Analysis for Abductive Learning and Neural-Symbolic Reasoning Shortcuts](https://proceedings.mlr.press/v235/yang24ac.html) | ICML | 2024 | N/A | `` | |
+| [Learning Causal Dynamics Models in Object-Oriented Environments](https://proceedings.mlr.press/v235/yu24j.html) | ICML | 2024 | N/A | `` | |
+| [ContPhy: Continuum Physical Concept Learning and Reasoning from Videos](https://proceedings.mlr.press/v235/zheng24l.html) | ICML | 2024 | N/A | `` | |
+| [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://openreview.net/attachment?id=ekeyCgeRfC&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [The mechanistic basis of data dependence and abrupt learning in an in-context classification task](https://openreview.net/attachment?id=aN4Jf6Cx69&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Provable Compositional Generalization for Object-Centric Learning](https://openreview.net/attachment?id=7VPTUWkiDQ&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts](https://openreview.net/attachment?id=KUNzEQMWU7&name=pdf) | ICLR | 2024 | N/A | `` | |
+| ["What Data Benefits My Classifier?" Enhancing Model Performance and Interpretability through Influence-Based Data Selection](https://openreview.net/attachment?id=HE9eUQlAvo&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Vision Transformers Need Registers](https://openreview.net/attachment?id=2dnO3LLiJ1&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Robust agents learn causal world models](https://openreview.net/attachment?id=pOoKI3ouv1&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Detecting, Explaining, and Mitigating Memorization in Diffusion Models](https://openreview.net/attachment?id=84n3UwkH7b&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models](https://openreview.net/attachment?id=aIok3ZD9to&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://openreview.net/attachment?id=5Ca9sSzuDp&name=pdf) | ICLR | 2024 | N/A | `` | |
+| [Spot Check Equivalence: An Interpretable Metric for Information Elicitation Mechanisms](https://doi.org/10.1145/3589334.3645679) | WWW | 2024 | N/A | `` | |
+| [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://doi.org/10.1145/3589334.3645551) | WWW | 2024 | N/A | `` | |
+| [Adversarial Mask Explainer for Graph Neural Networks](https://doi.org/10.1145/3589334.3645608) | WWW | 2024 | N/A | `` | |
+| [Globally Interpretable Graph Learning via Distribution Matching](https://doi.org/10.1145/3589334.3645674) | WWW | 2024 | N/A | `` | |
+| [Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models](https://doi.org/10.1145/3589334.3645376) | WWW | 2024 | N/A | `` | |
+| [A Method for Assessing Inference Patterns Captured by Embedding Models in Knowledge Graphs](https://doi.org/10.1145/3589334.3645505) | WWW | 2024 | N/A | `` | |
+| [Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models](https://doi.org/10.1145/3589334.3645381) | WWW | 2024 | N/A | `` | |
+| [NETEVOLVE: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features](https://doi.org/10.1145/3589334.3647982) | WWW | 2024 | N/A | `` | |
+| [Invariant Graph Learning for Causal Effect Estimation](https://doi.org/10.1145/3589334.3645549) | WWW | 2024 | N/A | `` | |
+| [Interpretable Knowledge Tracing with Multiscale State Representation](https://doi.org/10.1145/3589334.3645373) | WWW | 2024 | N/A | `` | |
+| [Towards the Identifiability and Explainability for Personalized Learner Modeling: An Inductive Paradigm](https://doi.org/10.1145/3589334.3645437) | WWW | 2024 | N/A | `` | |
+| [A Counterfactual Framework for Learning and Evaluating Explanations for Recommender Systems](https://doi.org/10.1145/3589334.3645560) | WWW | 2024 | N/A | `` | |
+| [Learning Audio Concepts from Counterfactual Natural Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446736) | ICASSP | 2024 | N/A | `` | |
+| [An Explainable Proxy Model for Multilabel Audio Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446648) | ICASSP | 2024 | N/A | `` | |
+| [Learning Ontology Informed Representations with Constraints for Acoustic Event Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447638) | ICASSP | 2024 | N/A | `` | |
+| [Predict and Interpret Health Risk Using Ehr Through Typical Patients](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447313) | ICASSP | 2024 | N/A | `` | |
+| [Learning a Convex Patch-Based Synthesis Model via Deep Equilibrium](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446773) | ICASSP | 2024 | N/A | `` | |
+| [Implicit-Knowledge-Guided Align Before Understanding for KB-VQA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10448108) | ICASSP | 2024 | N/A | `` | |
+| [Unlocking Deep Learning: A BP-Free Approach for Parallel Block-Wise Training of Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447377) | ICASSP | 2024 | N/A | `` | |
+| [Improved Image Captioning Via Knowledge Graph-Augmented Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447637) | ICASSP | 2024 | N/A | `` | |
+| [Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447706) | ICASSP | 2024 | N/A | `` | |
